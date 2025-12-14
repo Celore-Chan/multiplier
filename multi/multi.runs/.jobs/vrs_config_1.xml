@@ -1,0 +1,684 @@
+<?xml version="1.0"?>
+<Runs Version="1" Minor="0">
+	<Run Id="design_1_xor_gate_0_7_synth_1" LaunchDir="D:/coding/computer_organization/exp2nd/multi/multi/multi.runs/design_1_xor_gate_0_7_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="design_1_xor_gate_3_6_synth_1" LaunchDir="D:/coding/computer_organization/exp2nd/multi/multi/multi.runs/design_1_xor_gate_3_6_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="design_1_xor_gate_5_6_synth_1" LaunchDir="D:/coding/computer_organization/exp2nd/multi/multi/multi.runs/design_1_xor_gate_5_6_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="design_1_xor_gate_2_11_synth_1" LaunchDir="D:/coding/computer_organization/exp2nd/multi/multi/multi.runs/design_1_xor_gate_2_11_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="design_1_xor_gate_4_6_synth_1" LaunchDir="D:/coding/computer_organization/exp2nd/multi/multi/multi.runs/design_1_xor_gate_4_6_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="design_1_xor_gate_6_6_synth_1" LaunchDir="D:/coding/computer_organization/exp2nd/multi/multi/multi.runs/design_1_xor_gate_6_6_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="design_1_xor_gate_1_7_synth_1" LaunchDir="D:/coding/computer_organization/exp2nd/multi/multi/multi.runs/design_1_xor_gate_1_7_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="design_1_xor_gate_0_5_synth_1" LaunchDir="D:/coding/computer_organization/exp2nd/multi/multi/multi.runs/design_1_xor_gate_0_5_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="design_1_and_gate_0_11_synth_1" LaunchDir="D:/coding/computer_organization/exp2nd/multi/multi/multi.runs/design_1_and_gate_0_11_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="design_1_and_gate_4_5_synth_1" LaunchDir="D:/coding/computer_organization/exp2nd/multi/multi/multi.runs/design_1_and_gate_4_5_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="design_1_xor_gate_2_4_synth_1" LaunchDir="D:/coding/computer_organization/exp2nd/multi/multi/multi.runs/design_1_xor_gate_2_4_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="design_1_or_gate_1_5_synth_1" LaunchDir="D:/coding/computer_organization/exp2nd/multi/multi/multi.runs/design_1_or_gate_1_5_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="design_1_or_gate_3_5_synth_1" LaunchDir="D:/coding/computer_organization/exp2nd/multi/multi/multi.runs/design_1_or_gate_3_5_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="design_1_xor_gate_6_4_synth_1" LaunchDir="D:/coding/computer_organization/exp2nd/multi/multi/multi.runs/design_1_xor_gate_6_4_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="design_1_and_gate_3_5_synth_1" LaunchDir="D:/coding/computer_organization/exp2nd/multi/multi/multi.runs/design_1_and_gate_3_5_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="design_1_xor_gate_2_5_synth_1" LaunchDir="D:/coding/computer_organization/exp2nd/multi/multi/multi.runs/design_1_xor_gate_2_5_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="design_1_and_gate_1_5_synth_1" LaunchDir="D:/coding/computer_organization/exp2nd/multi/multi/multi.runs/design_1_and_gate_1_5_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="design_1_and_gate_5_5_synth_1" LaunchDir="D:/coding/computer_organization/exp2nd/multi/multi/multi.runs/design_1_and_gate_5_5_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="design_1_xor_gate_4_4_synth_1" LaunchDir="D:/coding/computer_organization/exp2nd/multi/multi/multi.runs/design_1_xor_gate_4_4_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="design_1_xor_gate_5_4_synth_1" LaunchDir="D:/coding/computer_organization/exp2nd/multi/multi/multi.runs/design_1_xor_gate_5_4_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="design_1_xor_gate_7_3_synth_1" LaunchDir="D:/coding/computer_organization/exp2nd/multi/multi/multi.runs/design_1_xor_gate_7_3_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="design_1_or_gate_5_3_synth_1" LaunchDir="D:/coding/computer_organization/exp2nd/multi/multi/multi.runs/design_1_or_gate_5_3_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="design_1_or_gate_5_0_synth_1" LaunchDir="D:/coding/computer_organization/exp2nd/multi/multi/multi.runs/design_1_or_gate_5_0_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="design_1_full_add_12_0_synth_1" LaunchDir="D:/coding/computer_organization/exp2nd/multi/multi/multi.runs/design_1_full_add_12_0_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="design_1_or_gate_2_5_synth_1" LaunchDir="D:/coding/computer_organization/exp2nd/multi/multi/multi.runs/design_1_or_gate_2_5_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="design_1_xor_gate_1_5_synth_1" LaunchDir="D:/coding/computer_organization/exp2nd/multi/multi/multi.runs/design_1_xor_gate_1_5_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="design_1_and_gate_5_4_synth_1" LaunchDir="D:/coding/computer_organization/exp2nd/multi/multi/multi.runs/design_1_and_gate_5_4_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="design_1_and_gate_7_3_synth_1" LaunchDir="D:/coding/computer_organization/exp2nd/multi/multi/multi.runs/design_1_and_gate_7_3_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="design_1_and_gate_7_4_synth_1" LaunchDir="D:/coding/computer_organization/exp2nd/multi/multi/multi.runs/design_1_and_gate_7_4_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="design_1_and_gate_0_0_synth_1" LaunchDir="D:/coding/computer_organization/exp2nd/multi/multi/multi.runs/design_1_and_gate_0_0_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="design_1_and_gate_15_0_synth_1" LaunchDir="D:/coding/computer_organization/exp2nd/multi/multi/multi.runs/design_1_and_gate_15_0_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="design_1_full_add_9_0_synth_1" LaunchDir="D:/coding/computer_organization/exp2nd/multi/multi/multi.runs/design_1_full_add_9_0_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="design_1_xor_gate_3_4_synth_1" LaunchDir="D:/coding/computer_organization/exp2nd/multi/multi/multi.runs/design_1_xor_gate_3_4_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="design_1_and_gate_7_0_synth_1" LaunchDir="D:/coding/computer_organization/exp2nd/multi/multi/multi.runs/design_1_and_gate_7_0_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="design_1_xor_gate_7_0_synth_1" LaunchDir="D:/coding/computer_organization/exp2nd/multi/multi/multi.runs/design_1_xor_gate_7_0_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="design_1_or_gate_0_6_synth_1" LaunchDir="D:/coding/computer_organization/exp2nd/multi/multi/multi.runs/design_1_or_gate_0_6_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="design_1_and_gate_2_5_synth_1" LaunchDir="D:/coding/computer_organization/exp2nd/multi/multi/multi.runs/design_1_and_gate_2_5_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="design_1_or_gate_4_6_synth_1" LaunchDir="D:/coding/computer_organization/exp2nd/multi/multi/multi.runs/design_1_or_gate_4_6_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="design_1_and_gate_6_5_synth_1" LaunchDir="D:/coding/computer_organization/exp2nd/multi/multi/multi.runs/design_1_and_gate_6_5_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="design_1_xor_gate_2_9_synth_1" LaunchDir="D:/coding/computer_organization/exp2nd/multi/multi/multi.runs/design_1_xor_gate_2_9_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="design_1_and_gate_8_0_synth_1" LaunchDir="D:/coding/computer_organization/exp2nd/multi/multi/multi.runs/design_1_and_gate_8_0_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="design_1_and_gate_11_0_synth_1" LaunchDir="D:/coding/computer_organization/exp2nd/multi/multi/multi.runs/design_1_and_gate_11_0_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="design_1_and_gate_12_0_synth_1" LaunchDir="D:/coding/computer_organization/exp2nd/multi/multi/multi.runs/design_1_and_gate_12_0_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="design_1_and_gate_13_0_synth_1" LaunchDir="D:/coding/computer_organization/exp2nd/multi/multi/multi.runs/design_1_and_gate_13_0_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="design_1_and_gate_14_0_synth_1" LaunchDir="D:/coding/computer_organization/exp2nd/multi/multi/multi.runs/design_1_and_gate_14_0_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="design_1_and_gate_9_0_synth_1" LaunchDir="D:/coding/computer_organization/exp2nd/multi/multi/multi.runs/design_1_and_gate_9_0_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="design_1_full_add_10_0_synth_1" LaunchDir="D:/coding/computer_organization/exp2nd/multi/multi/multi.runs/design_1_full_add_10_0_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="design_1_full_add_11_0_synth_1" LaunchDir="D:/coding/computer_organization/exp2nd/multi/multi/multi.runs/design_1_full_add_11_0_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="design_1_full_add_13_0_synth_1" LaunchDir="D:/coding/computer_organization/exp2nd/multi/multi/multi.runs/design_1_full_add_13_0_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="design_1_and_gate_10_0_synth_1" LaunchDir="D:/coding/computer_organization/exp2nd/multi/multi/multi.runs/design_1_and_gate_10_0_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="design_1_full_add_15_0_synth_1" LaunchDir="D:/coding/computer_organization/exp2nd/multi/multi/multi.runs/design_1_full_add_15_0_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="design_1_full_add_14_0_synth_1" LaunchDir="D:/coding/computer_organization/exp2nd/multi/multi/multi.runs/design_1_full_add_14_0_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="design_1_full_add_8_0_synth_1" LaunchDir="D:/coding/computer_organization/exp2nd/multi/multi/multi.runs/design_1_full_add_8_0_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="design_1_and_gate_0_10_synth_1" LaunchDir="D:/coding/computer_organization/exp2nd/multi/multi/multi.runs/design_1_and_gate_0_10_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="design_1_and_gate_1_4_synth_1" LaunchDir="D:/coding/computer_organization/exp2nd/multi/multi/multi.runs/design_1_and_gate_1_4_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="design_1_and_gate_2_4_synth_1" LaunchDir="D:/coding/computer_organization/exp2nd/multi/multi/multi.runs/design_1_and_gate_2_4_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="design_1_and_gate_3_4_synth_1" LaunchDir="D:/coding/computer_organization/exp2nd/multi/multi/multi.runs/design_1_and_gate_3_4_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="design_1_and_gate_4_4_synth_1" LaunchDir="D:/coding/computer_organization/exp2nd/multi/multi/multi.runs/design_1_and_gate_4_4_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="design_1_and_gate_6_4_synth_1" LaunchDir="D:/coding/computer_organization/exp2nd/multi/multi/multi.runs/design_1_and_gate_6_4_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="design_1_full_add_0_0_synth_1" LaunchDir="D:/coding/computer_organization/exp2nd/multi/multi/multi.runs/design_1_full_add_0_0_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="design_1_full_add_3_0_synth_1" LaunchDir="D:/coding/computer_organization/exp2nd/multi/multi/multi.runs/design_1_full_add_3_0_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="design_1_full_add_4_0_synth_1" LaunchDir="D:/coding/computer_organization/exp2nd/multi/multi/multi.runs/design_1_full_add_4_0_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="design_1_full_add_5_0_synth_1" LaunchDir="D:/coding/computer_organization/exp2nd/multi/multi/multi.runs/design_1_full_add_5_0_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="design_1_full_add_7_0_synth_1" LaunchDir="D:/coding/computer_organization/exp2nd/multi/multi/multi.runs/design_1_full_add_7_0_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="design_1_and_gate_8_2_synth_1" LaunchDir="D:/coding/computer_organization/exp2nd/multi/multi/multi.runs/design_1_and_gate_8_2_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="design_1_and_gate_9_2_synth_1" LaunchDir="D:/coding/computer_organization/exp2nd/multi/multi/multi.runs/design_1_and_gate_9_2_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="design_1_full_add_1_0_synth_1" LaunchDir="D:/coding/computer_organization/exp2nd/multi/multi/multi.runs/design_1_full_add_1_0_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="design_1_full_add_6_0_synth_1" LaunchDir="D:/coding/computer_organization/exp2nd/multi/multi/multi.runs/design_1_full_add_6_0_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="design_1_full_add_2_0_synth_1" LaunchDir="D:/coding/computer_organization/exp2nd/multi/multi/multi.runs/design_1_full_add_2_0_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="design_1_full_add_11_2_synth_1" LaunchDir="D:/coding/computer_organization/exp2nd/multi/multi/multi.runs/design_1_full_add_11_2_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="design_1_and_gate_15_3_synth_1" LaunchDir="D:/coding/computer_organization/exp2nd/multi/multi/multi.runs/design_1_and_gate_15_3_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="design_1_full_add_11_3_synth_1" LaunchDir="D:/coding/computer_organization/exp2nd/multi/multi/multi.runs/design_1_full_add_11_3_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="design_1_full_add_12_2_synth_1" LaunchDir="D:/coding/computer_organization/exp2nd/multi/multi/multi.runs/design_1_full_add_12_2_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="design_1_and_gate_14_2_synth_1" LaunchDir="D:/coding/computer_organization/exp2nd/multi/multi/multi.runs/design_1_and_gate_14_2_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="design_1_and_gate_10_3_synth_1" LaunchDir="D:/coding/computer_organization/exp2nd/multi/multi/multi.runs/design_1_and_gate_10_3_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="design_1_full_add_9_2_synth_1" LaunchDir="D:/coding/computer_organization/exp2nd/multi/multi/multi.runs/design_1_full_add_9_2_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="design_1_full_add_9_4_synth_1" LaunchDir="D:/coding/computer_organization/exp2nd/multi/multi/multi.runs/design_1_full_add_9_4_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="design_1_full_add_11_4_synth_1" LaunchDir="D:/coding/computer_organization/exp2nd/multi/multi/multi.runs/design_1_full_add_11_4_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="design_1_and_gate_9_4_synth_1" LaunchDir="D:/coding/computer_organization/exp2nd/multi/multi/multi.runs/design_1_and_gate_9_4_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="design_1_and_gate_12_3_synth_1" LaunchDir="D:/coding/computer_organization/exp2nd/multi/multi/multi.runs/design_1_and_gate_12_3_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="design_1_and_gate_8_4_synth_1" LaunchDir="D:/coding/computer_organization/exp2nd/multi/multi/multi.runs/design_1_and_gate_8_4_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="design_1_and_gate_11_4_synth_1" LaunchDir="D:/coding/computer_organization/exp2nd/multi/multi/multi.runs/design_1_and_gate_11_4_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="design_1_and_gate_11_2_synth_1" LaunchDir="D:/coding/computer_organization/exp2nd/multi/multi/multi.runs/design_1_and_gate_11_2_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="design_1_and_gate_15_2_synth_1" LaunchDir="D:/coding/computer_organization/exp2nd/multi/multi/multi.runs/design_1_and_gate_15_2_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="design_1_and_gate_9_3_synth_1" LaunchDir="D:/coding/computer_organization/exp2nd/multi/multi/multi.runs/design_1_and_gate_9_3_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="design_1_and_gate_10_2_synth_1" LaunchDir="D:/coding/computer_organization/exp2nd/multi/multi/multi.runs/design_1_and_gate_10_2_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="design_1_full_add_10_2_synth_1" LaunchDir="D:/coding/computer_organization/exp2nd/multi/multi/multi.runs/design_1_full_add_10_2_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="design_1_full_add_8_2_synth_1" LaunchDir="D:/coding/computer_organization/exp2nd/multi/multi/multi.runs/design_1_full_add_8_2_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="design_1_and_gate_14_3_synth_1" LaunchDir="D:/coding/computer_organization/exp2nd/multi/multi/multi.runs/design_1_and_gate_14_3_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="design_1_full_add_14_2_synth_1" LaunchDir="D:/coding/computer_organization/exp2nd/multi/multi/multi.runs/design_1_full_add_14_2_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="design_1_full_add_8_3_synth_1" LaunchDir="D:/coding/computer_organization/exp2nd/multi/multi/multi.runs/design_1_full_add_8_3_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="design_1_full_add_14_3_synth_1" LaunchDir="D:/coding/computer_organization/exp2nd/multi/multi/multi.runs/design_1_full_add_14_3_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="design_1_and_gate_10_4_synth_1" LaunchDir="D:/coding/computer_organization/exp2nd/multi/multi/multi.runs/design_1_and_gate_10_4_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="design_1_and_gate_11_3_synth_1" LaunchDir="D:/coding/computer_organization/exp2nd/multi/multi/multi.runs/design_1_and_gate_11_3_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="design_1_and_gate_14_4_synth_1" LaunchDir="D:/coding/computer_organization/exp2nd/multi/multi/multi.runs/design_1_and_gate_14_4_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="design_1_full_add_10_3_synth_1" LaunchDir="D:/coding/computer_organization/exp2nd/multi/multi/multi.runs/design_1_full_add_10_3_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="design_1_full_add_15_3_synth_1" LaunchDir="D:/coding/computer_organization/exp2nd/multi/multi/multi.runs/design_1_full_add_15_3_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="design_1_and_gate_13_4_synth_1" LaunchDir="D:/coding/computer_organization/exp2nd/multi/multi/multi.runs/design_1_and_gate_13_4_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="design_1_and_gate_12_2_synth_1" LaunchDir="D:/coding/computer_organization/exp2nd/multi/multi/multi.runs/design_1_and_gate_12_2_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="design_1_and_gate_13_2_synth_1" LaunchDir="D:/coding/computer_organization/exp2nd/multi/multi/multi.runs/design_1_and_gate_13_2_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="design_1_and_gate_8_3_synth_1" LaunchDir="D:/coding/computer_organization/exp2nd/multi/multi/multi.runs/design_1_and_gate_8_3_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="design_1_and_gate_13_3_synth_1" LaunchDir="D:/coding/computer_organization/exp2nd/multi/multi/multi.runs/design_1_and_gate_13_3_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="design_1_full_add_13_2_synth_1" LaunchDir="D:/coding/computer_organization/exp2nd/multi/multi/multi.runs/design_1_full_add_13_2_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="design_1_full_add_15_2_synth_1" LaunchDir="D:/coding/computer_organization/exp2nd/multi/multi/multi.runs/design_1_full_add_15_2_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="design_1_full_add_9_3_synth_1" LaunchDir="D:/coding/computer_organization/exp2nd/multi/multi/multi.runs/design_1_full_add_9_3_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="design_1_and_gate_12_4_synth_1" LaunchDir="D:/coding/computer_organization/exp2nd/multi/multi/multi.runs/design_1_and_gate_12_4_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="design_1_and_gate_15_4_synth_1" LaunchDir="D:/coding/computer_organization/exp2nd/multi/multi/multi.runs/design_1_and_gate_15_4_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="design_1_full_add_12_3_synth_1" LaunchDir="D:/coding/computer_organization/exp2nd/multi/multi/multi.runs/design_1_full_add_12_3_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="design_1_full_add_13_3_synth_1" LaunchDir="D:/coding/computer_organization/exp2nd/multi/multi/multi.runs/design_1_full_add_13_3_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="design_1_full_add_8_4_synth_1" LaunchDir="D:/coding/computer_organization/exp2nd/multi/multi/multi.runs/design_1_full_add_8_4_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="design_1_full_add_10_4_synth_1" LaunchDir="D:/coding/computer_organization/exp2nd/multi/multi/multi.runs/design_1_full_add_10_4_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="design_1_full_add_15_4_synth_1" LaunchDir="D:/coding/computer_organization/exp2nd/multi/multi/multi.runs/design_1_full_add_15_4_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="design_1_full_add_13_4_synth_1" LaunchDir="D:/coding/computer_organization/exp2nd/multi/multi/multi.runs/design_1_full_add_13_4_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="design_1_and_gate_8_5_synth_1" LaunchDir="D:/coding/computer_organization/exp2nd/multi/multi/multi.runs/design_1_and_gate_8_5_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="design_1_full_add_12_4_synth_1" LaunchDir="D:/coding/computer_organization/exp2nd/multi/multi/multi.runs/design_1_full_add_12_4_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="design_1_and_gate_10_5_synth_1" LaunchDir="D:/coding/computer_organization/exp2nd/multi/multi/multi.runs/design_1_and_gate_10_5_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="design_1_and_gate_12_5_synth_1" LaunchDir="D:/coding/computer_organization/exp2nd/multi/multi/multi.runs/design_1_and_gate_12_5_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="design_1_and_gate_11_5_synth_1" LaunchDir="D:/coding/computer_organization/exp2nd/multi/multi/multi.runs/design_1_and_gate_11_5_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="design_1_and_gate_13_5_synth_1" LaunchDir="D:/coding/computer_organization/exp2nd/multi/multi/multi.runs/design_1_and_gate_13_5_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="design_1_and_gate_14_5_synth_1" LaunchDir="D:/coding/computer_organization/exp2nd/multi/multi/multi.runs/design_1_and_gate_14_5_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="design_1_full_add_8_5_synth_1" LaunchDir="D:/coding/computer_organization/exp2nd/multi/multi/multi.runs/design_1_full_add_8_5_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="design_1_full_add_9_5_synth_1" LaunchDir="D:/coding/computer_organization/exp2nd/multi/multi/multi.runs/design_1_full_add_9_5_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="design_1_full_add_10_5_synth_1" LaunchDir="D:/coding/computer_organization/exp2nd/multi/multi/multi.runs/design_1_full_add_10_5_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="design_1_full_add_11_5_synth_1" LaunchDir="D:/coding/computer_organization/exp2nd/multi/multi/multi.runs/design_1_full_add_11_5_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="design_1_full_add_12_5_synth_1" LaunchDir="D:/coding/computer_organization/exp2nd/multi/multi/multi.runs/design_1_full_add_12_5_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="design_1_and_gate_9_5_synth_1" LaunchDir="D:/coding/computer_organization/exp2nd/multi/multi/multi.runs/design_1_and_gate_9_5_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="design_1_full_add_13_5_synth_1" LaunchDir="D:/coding/computer_organization/exp2nd/multi/multi/multi.runs/design_1_full_add_13_5_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="design_1_full_add_14_5_synth_1" LaunchDir="D:/coding/computer_organization/exp2nd/multi/multi/multi.runs/design_1_full_add_14_5_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="design_1_full_add_15_5_synth_1" LaunchDir="D:/coding/computer_organization/exp2nd/multi/multi/multi.runs/design_1_full_add_15_5_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="design_1_and_gate_8_6_synth_1" LaunchDir="D:/coding/computer_organization/exp2nd/multi/multi/multi.runs/design_1_and_gate_8_6_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="design_1_and_gate_9_6_synth_1" LaunchDir="D:/coding/computer_organization/exp2nd/multi/multi/multi.runs/design_1_and_gate_9_6_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="design_1_full_add_14_4_synth_1" LaunchDir="D:/coding/computer_organization/exp2nd/multi/multi/multi.runs/design_1_full_add_14_4_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="design_1_and_gate_15_5_synth_1" LaunchDir="D:/coding/computer_organization/exp2nd/multi/multi/multi.runs/design_1_and_gate_15_5_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="design_1_and_gate_10_7_synth_1" LaunchDir="D:/coding/computer_organization/exp2nd/multi/multi/multi.runs/design_1_and_gate_10_7_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="design_1_full_add_11_7_synth_1" LaunchDir="D:/coding/computer_organization/exp2nd/multi/multi/multi.runs/design_1_full_add_11_7_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="design_1_and_gate_12_6_synth_1" LaunchDir="D:/coding/computer_organization/exp2nd/multi/multi/multi.runs/design_1_and_gate_12_6_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="design_1_and_gate_14_7_synth_1" LaunchDir="D:/coding/computer_organization/exp2nd/multi/multi/multi.runs/design_1_and_gate_14_7_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="design_1_or_gate_1_6_synth_1" LaunchDir="D:/coding/computer_organization/exp2nd/multi/multi/multi.runs/design_1_or_gate_1_6_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="design_1_or_gate_4_7_synth_1" LaunchDir="D:/coding/computer_organization/exp2nd/multi/multi/multi.runs/design_1_or_gate_4_7_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="design_1_and_gate_3_7_synth_1" LaunchDir="D:/coding/computer_organization/exp2nd/multi/multi/multi.runs/design_1_and_gate_3_7_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="design_1_and_gate_1_7_synth_1" LaunchDir="D:/coding/computer_organization/exp2nd/multi/multi/multi.runs/design_1_and_gate_1_7_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="design_1_or_gate_2_6_synth_1" LaunchDir="D:/coding/computer_organization/exp2nd/multi/multi/multi.runs/design_1_or_gate_2_6_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="design_1_and_gate_15_6_synth_1" LaunchDir="D:/coding/computer_organization/exp2nd/multi/multi/multi.runs/design_1_and_gate_15_6_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="design_1_xor_gate_2_10_synth_1" LaunchDir="D:/coding/computer_organization/exp2nd/multi/multi/multi.runs/design_1_xor_gate_2_10_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="design_1_full_add_11_6_synth_1" LaunchDir="D:/coding/computer_organization/exp2nd/multi/multi/multi.runs/design_1_full_add_11_6_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="design_1_full_add_8_7_synth_1" LaunchDir="D:/coding/computer_organization/exp2nd/multi/multi/multi.runs/design_1_full_add_8_7_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="design_1_and_gate_13_6_synth_1" LaunchDir="D:/coding/computer_organization/exp2nd/multi/multi/multi.runs/design_1_and_gate_13_6_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="design_1_and_gate_11_6_synth_1" LaunchDir="D:/coding/computer_organization/exp2nd/multi/multi/multi.runs/design_1_and_gate_11_6_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="design_1_full_add_14_6_synth_1" LaunchDir="D:/coding/computer_organization/exp2nd/multi/multi/multi.runs/design_1_full_add_14_6_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="design_1_full_add_15_7_synth_1" LaunchDir="D:/coding/computer_organization/exp2nd/multi/multi/multi.runs/design_1_full_add_15_7_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="design_1_and_gate_2_7_synth_1" LaunchDir="D:/coding/computer_organization/exp2nd/multi/multi/multi.runs/design_1_and_gate_2_7_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="design_1_and_gate_11_7_synth_1" LaunchDir="D:/coding/computer_organization/exp2nd/multi/multi/multi.runs/design_1_and_gate_11_7_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="design_1_full_add_15_6_synth_1" LaunchDir="D:/coding/computer_organization/exp2nd/multi/multi/multi.runs/design_1_full_add_15_6_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="design_1_and_gate_8_7_synth_1" LaunchDir="D:/coding/computer_organization/exp2nd/multi/multi/multi.runs/design_1_and_gate_8_7_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="design_1_full_add_9_7_synth_1" LaunchDir="D:/coding/computer_organization/exp2nd/multi/multi/multi.runs/design_1_full_add_9_7_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="design_1_full_add_10_7_synth_1" LaunchDir="D:/coding/computer_organization/exp2nd/multi/multi/multi.runs/design_1_full_add_10_7_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="design_1_full_add_8_6_synth_1" LaunchDir="D:/coding/computer_organization/exp2nd/multi/multi/multi.runs/design_1_full_add_8_6_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="design_1_full_add_13_6_synth_1" LaunchDir="D:/coding/computer_organization/exp2nd/multi/multi/multi.runs/design_1_full_add_13_6_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="design_1_full_add_9_6_synth_1" LaunchDir="D:/coding/computer_organization/exp2nd/multi/multi/multi.runs/design_1_full_add_9_6_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="design_1_full_add_10_6_synth_1" LaunchDir="D:/coding/computer_organization/exp2nd/multi/multi/multi.runs/design_1_full_add_10_6_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="design_1_and_gate_9_7_synth_1" LaunchDir="D:/coding/computer_organization/exp2nd/multi/multi/multi.runs/design_1_and_gate_9_7_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="design_1_and_gate_15_7_synth_1" LaunchDir="D:/coding/computer_organization/exp2nd/multi/multi/multi.runs/design_1_and_gate_15_7_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="design_1_and_gate_13_7_synth_1" LaunchDir="D:/coding/computer_organization/exp2nd/multi/multi/multi.runs/design_1_and_gate_13_7_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="design_1_and_gate_14_6_synth_1" LaunchDir="D:/coding/computer_organization/exp2nd/multi/multi/multi.runs/design_1_and_gate_14_6_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="design_1_full_add_12_6_synth_1" LaunchDir="D:/coding/computer_organization/exp2nd/multi/multi/multi.runs/design_1_full_add_12_6_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="design_1_and_gate_10_6_synth_1" LaunchDir="D:/coding/computer_organization/exp2nd/multi/multi/multi.runs/design_1_and_gate_10_6_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="design_1_and_gate_12_7_synth_1" LaunchDir="D:/coding/computer_organization/exp2nd/multi/multi/multi.runs/design_1_and_gate_12_7_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="design_1_full_add_12_7_synth_1" LaunchDir="D:/coding/computer_organization/exp2nd/multi/multi/multi.runs/design_1_full_add_12_7_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="design_1_full_add_13_7_synth_1" LaunchDir="D:/coding/computer_organization/exp2nd/multi/multi/multi.runs/design_1_full_add_13_7_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="design_1_full_add_14_7_synth_1" LaunchDir="D:/coding/computer_organization/exp2nd/multi/multi/multi.runs/design_1_full_add_14_7_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="design_1_or_gate_0_8_synth_1" LaunchDir="D:/coding/computer_organization/exp2nd/multi/multi/multi.runs/design_1_or_gate_0_8_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="design_1_or_gate_3_6_synth_1" LaunchDir="D:/coding/computer_organization/exp2nd/multi/multi/multi.runs/design_1_or_gate_3_6_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="design_1_and_gate_4_7_synth_1" LaunchDir="D:/coding/computer_organization/exp2nd/multi/multi/multi.runs/design_1_and_gate_4_7_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="design_1_and_gate_5_7_synth_1" LaunchDir="D:/coding/computer_organization/exp2nd/multi/multi/multi.runs/design_1_and_gate_5_7_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="design_1_and_gate_6_7_synth_1" LaunchDir="D:/coding/computer_organization/exp2nd/multi/multi/multi.runs/design_1_and_gate_6_7_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="design_1_xor_gate_0_6_synth_1" LaunchDir="D:/coding/computer_organization/exp2nd/multi/multi/multi.runs/design_1_xor_gate_0_6_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="design_1_xor_gate_1_6_synth_1" LaunchDir="D:/coding/computer_organization/exp2nd/multi/multi/multi.runs/design_1_xor_gate_1_6_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="design_1_xor_gate_3_5_synth_1" LaunchDir="D:/coding/computer_organization/exp2nd/multi/multi/multi.runs/design_1_xor_gate_3_5_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="design_1_xor_gate_4_5_synth_1" LaunchDir="D:/coding/computer_organization/exp2nd/multi/multi/multi.runs/design_1_xor_gate_4_5_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="design_1_xor_gate_5_5_synth_1" LaunchDir="D:/coding/computer_organization/exp2nd/multi/multi/multi.runs/design_1_xor_gate_5_5_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="design_1_xor_gate_7_4_synth_1" LaunchDir="D:/coding/computer_organization/exp2nd/multi/multi/multi.runs/design_1_xor_gate_7_4_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="design_1_xor_gate_6_5_synth_1" LaunchDir="D:/coding/computer_organization/exp2nd/multi/multi/multi.runs/design_1_xor_gate_6_5_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="design_1_or_gate_5_4_synth_1" LaunchDir="D:/coding/computer_organization/exp2nd/multi/multi/multi.runs/design_1_or_gate_5_4_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="design_1_and_gate_7_6_synth_1" LaunchDir="D:/coding/computer_organization/exp2nd/multi/multi/multi.runs/design_1_and_gate_7_6_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="design_1_and_gate_0_13_synth_1" LaunchDir="D:/coding/computer_organization/exp2nd/multi/multi/multi.runs/design_1_and_gate_0_13_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="design_1_or_gate_0_9_synth_1" LaunchDir="D:/coding/computer_organization/exp2nd/multi/multi/multi.runs/design_1_or_gate_0_9_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="design_1_or_gate_1_7_synth_1" LaunchDir="D:/coding/computer_organization/exp2nd/multi/multi/multi.runs/design_1_or_gate_1_7_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="design_1_or_gate_2_7_synth_1" LaunchDir="D:/coding/computer_organization/exp2nd/multi/multi/multi.runs/design_1_or_gate_2_7_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="design_1_or_gate_3_7_synth_1" LaunchDir="D:/coding/computer_organization/exp2nd/multi/multi/multi.runs/design_1_or_gate_3_7_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="design_1_and_gate_1_8_synth_1" LaunchDir="D:/coding/computer_organization/exp2nd/multi/multi/multi.runs/design_1_and_gate_1_8_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="design_1_and_gate_2_8_synth_1" LaunchDir="D:/coding/computer_organization/exp2nd/multi/multi/multi.runs/design_1_and_gate_2_8_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="design_1_and_gate_3_8_synth_1" LaunchDir="D:/coding/computer_organization/exp2nd/multi/multi/multi.runs/design_1_and_gate_3_8_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="design_1_or_gate_4_8_synth_1" LaunchDir="D:/coding/computer_organization/exp2nd/multi/multi/multi.runs/design_1_or_gate_4_8_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="design_1_and_gate_4_8_synth_1" LaunchDir="D:/coding/computer_organization/exp2nd/multi/multi/multi.runs/design_1_and_gate_4_8_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="design_1_and_gate_5_8_synth_1" LaunchDir="D:/coding/computer_organization/exp2nd/multi/multi/multi.runs/design_1_and_gate_5_8_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="design_1_and_gate_6_8_synth_1" LaunchDir="D:/coding/computer_organization/exp2nd/multi/multi/multi.runs/design_1_and_gate_6_8_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="design_1_or_gate_2_1_synth_1" LaunchDir="D:/coding/computer_organization/exp2nd/multi/multi/multi.runs/design_1_or_gate_2_1_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="design_1_or_gate_3_1_synth_1" LaunchDir="D:/coding/computer_organization/exp2nd/multi/multi/multi.runs/design_1_or_gate_3_1_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="design_1_and_gate_0_1_synth_1" LaunchDir="D:/coding/computer_organization/exp2nd/multi/multi/multi.runs/design_1_and_gate_0_1_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="design_1_or_gate_4_2_synth_1" LaunchDir="D:/coding/computer_organization/exp2nd/multi/multi/multi.runs/design_1_or_gate_4_2_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="design_1_and_gate_0_2_synth_1" LaunchDir="D:/coding/computer_organization/exp2nd/multi/multi/multi.runs/design_1_and_gate_0_2_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="design_1_or_gate_0_2_synth_1" LaunchDir="D:/coding/computer_organization/exp2nd/multi/multi/multi.runs/design_1_or_gate_0_2_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="design_1_adpt_in_0_1_synth_1" LaunchDir="D:/coding/computer_organization/exp2nd/multi/multi/multi.runs/design_1_adpt_in_0_1_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="design_1_xor_gate_2_2_synth_1" LaunchDir="D:/coding/computer_organization/exp2nd/multi/multi/multi.runs/design_1_xor_gate_2_2_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="design_1_cg_fpga_0_0_synth_1" LaunchDir="D:/coding/computer_organization/exp2nd/multi/multi/multi.runs/design_1_cg_fpga_0_0_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="design_1_and_gate_0_4_synth_1" LaunchDir="D:/coding/computer_organization/exp2nd/multi/multi/multi.runs/design_1_and_gate_0_4_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="design_1_and_gate_0_5_synth_1" LaunchDir="D:/coding/computer_organization/exp2nd/multi/multi/multi.runs/design_1_and_gate_0_5_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="design_1_and_gate_0_6_synth_1" LaunchDir="D:/coding/computer_organization/exp2nd/multi/multi/multi.runs/design_1_and_gate_0_6_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="design_1_xor_gate_0_1_synth_1" LaunchDir="D:/coding/computer_organization/exp2nd/multi/multi/multi.runs/design_1_xor_gate_0_1_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="design_1_or_gate_1_1_synth_1" LaunchDir="D:/coding/computer_organization/exp2nd/multi/multi/multi.runs/design_1_or_gate_1_1_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="design_1_xor_gate_1_1_synth_1" LaunchDir="D:/coding/computer_organization/exp2nd/multi/multi/multi.runs/design_1_xor_gate_1_1_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="design_1_xor_gate_2_1_synth_1" LaunchDir="D:/coding/computer_organization/exp2nd/multi/multi/multi.runs/design_1_xor_gate_2_1_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="design_1_and_gate_0_3_synth_1" LaunchDir="D:/coding/computer_organization/exp2nd/multi/multi/multi.runs/design_1_and_gate_0_3_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="design_1_xor_gate_2_3_synth_1" LaunchDir="D:/coding/computer_organization/exp2nd/multi/multi/multi.runs/design_1_xor_gate_2_3_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="design_1_adpt_in_1_1_synth_1" LaunchDir="D:/coding/computer_organization/exp2nd/multi/multi/multi.runs/design_1_adpt_in_1_1_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="design_1_xor_gate_7_5_synth_1" LaunchDir="D:/coding/computer_organization/exp2nd/multi/multi/multi.runs/design_1_xor_gate_7_5_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="design_1_and_gate_7_7_synth_1" LaunchDir="D:/coding/computer_organization/exp2nd/multi/multi/multi.runs/design_1_and_gate_7_7_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="design_1_xor_gate_0_8_synth_1" LaunchDir="D:/coding/computer_organization/exp2nd/multi/multi/multi.runs/design_1_xor_gate_0_8_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="design_1_adpt_out_0_1_synth_1" LaunchDir="D:/coding/computer_organization/exp2nd/multi/multi/multi.runs/design_1_adpt_out_0_1_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="design_1_or_gate_6_0_synth_1" LaunchDir="D:/coding/computer_organization/exp2nd/multi/multi/multi.runs/design_1_or_gate_6_0_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="design_1_and_gate_0_14_synth_1" LaunchDir="D:/coding/computer_organization/exp2nd/multi/multi/multi.runs/design_1_and_gate_0_14_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="design_1_or_gate_7_0_synth_1" LaunchDir="D:/coding/computer_organization/exp2nd/multi/multi/multi.runs/design_1_or_gate_7_0_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="design_1_or_gate_5_5_synth_1" LaunchDir="D:/coding/computer_organization/exp2nd/multi/multi/multi.runs/design_1_or_gate_5_5_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="synth_1" LaunchDir="D:/coding/computer_organization/exp2nd/multi/multi/multi.runs/synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado">
+		<Parent Id="design_1_xor_gate_0_7_synth_1"/>
+		<Parent Id="design_1_xor_gate_3_6_synth_1"/>
+		<Parent Id="design_1_xor_gate_5_6_synth_1"/>
+		<Parent Id="design_1_xor_gate_2_11_synth_1"/>
+		<Parent Id="design_1_xor_gate_4_6_synth_1"/>
+		<Parent Id="design_1_xor_gate_6_6_synth_1"/>
+		<Parent Id="design_1_xor_gate_1_7_synth_1"/>
+		<Parent Id="design_1_xor_gate_0_5_synth_1"/>
+		<Parent Id="design_1_and_gate_0_11_synth_1"/>
+		<Parent Id="design_1_and_gate_4_5_synth_1"/>
+		<Parent Id="design_1_xor_gate_2_4_synth_1"/>
+		<Parent Id="design_1_or_gate_1_5_synth_1"/>
+		<Parent Id="design_1_or_gate_3_5_synth_1"/>
+		<Parent Id="design_1_xor_gate_6_4_synth_1"/>
+		<Parent Id="design_1_and_gate_3_5_synth_1"/>
+		<Parent Id="design_1_xor_gate_2_5_synth_1"/>
+		<Parent Id="design_1_and_gate_1_5_synth_1"/>
+		<Parent Id="design_1_and_gate_5_5_synth_1"/>
+		<Parent Id="design_1_xor_gate_4_4_synth_1"/>
+		<Parent Id="design_1_xor_gate_5_4_synth_1"/>
+		<Parent Id="design_1_xor_gate_7_3_synth_1"/>
+		<Parent Id="design_1_or_gate_5_3_synth_1"/>
+		<Parent Id="design_1_or_gate_5_0_synth_1"/>
+		<Parent Id="design_1_full_add_12_0_synth_1"/>
+		<Parent Id="design_1_or_gate_2_5_synth_1"/>
+		<Parent Id="design_1_xor_gate_1_5_synth_1"/>
+		<Parent Id="design_1_and_gate_5_4_synth_1"/>
+		<Parent Id="design_1_and_gate_7_3_synth_1"/>
+		<Parent Id="design_1_and_gate_7_4_synth_1"/>
+		<Parent Id="design_1_and_gate_0_0_synth_1"/>
+		<Parent Id="design_1_and_gate_15_0_synth_1"/>
+		<Parent Id="design_1_full_add_9_0_synth_1"/>
+		<Parent Id="design_1_xor_gate_3_4_synth_1"/>
+		<Parent Id="design_1_and_gate_7_0_synth_1"/>
+		<Parent Id="design_1_xor_gate_7_0_synth_1"/>
+		<Parent Id="design_1_or_gate_0_6_synth_1"/>
+		<Parent Id="design_1_and_gate_2_5_synth_1"/>
+		<Parent Id="design_1_or_gate_4_6_synth_1"/>
+		<Parent Id="design_1_and_gate_6_5_synth_1"/>
+		<Parent Id="design_1_xor_gate_2_9_synth_1"/>
+		<Parent Id="design_1_and_gate_8_0_synth_1"/>
+		<Parent Id="design_1_and_gate_11_0_synth_1"/>
+		<Parent Id="design_1_and_gate_12_0_synth_1"/>
+		<Parent Id="design_1_and_gate_13_0_synth_1"/>
+		<Parent Id="design_1_and_gate_14_0_synth_1"/>
+		<Parent Id="design_1_and_gate_9_0_synth_1"/>
+		<Parent Id="design_1_full_add_10_0_synth_1"/>
+		<Parent Id="design_1_full_add_11_0_synth_1"/>
+		<Parent Id="design_1_full_add_13_0_synth_1"/>
+		<Parent Id="design_1_and_gate_10_0_synth_1"/>
+		<Parent Id="design_1_full_add_15_0_synth_1"/>
+		<Parent Id="design_1_full_add_14_0_synth_1"/>
+		<Parent Id="design_1_full_add_8_0_synth_1"/>
+		<Parent Id="design_1_and_gate_0_10_synth_1"/>
+		<Parent Id="design_1_and_gate_1_4_synth_1"/>
+		<Parent Id="design_1_and_gate_2_4_synth_1"/>
+		<Parent Id="design_1_and_gate_3_4_synth_1"/>
+		<Parent Id="design_1_and_gate_4_4_synth_1"/>
+		<Parent Id="design_1_and_gate_6_4_synth_1"/>
+		<Parent Id="design_1_full_add_0_0_synth_1"/>
+		<Parent Id="design_1_full_add_3_0_synth_1"/>
+		<Parent Id="design_1_full_add_4_0_synth_1"/>
+		<Parent Id="design_1_full_add_5_0_synth_1"/>
+		<Parent Id="design_1_full_add_7_0_synth_1"/>
+		<Parent Id="design_1_and_gate_8_2_synth_1"/>
+		<Parent Id="design_1_and_gate_9_2_synth_1"/>
+		<Parent Id="design_1_full_add_1_0_synth_1"/>
+		<Parent Id="design_1_full_add_6_0_synth_1"/>
+		<Parent Id="design_1_full_add_2_0_synth_1"/>
+		<Parent Id="design_1_full_add_11_2_synth_1"/>
+		<Parent Id="design_1_and_gate_15_3_synth_1"/>
+		<Parent Id="design_1_full_add_11_3_synth_1"/>
+		<Parent Id="design_1_full_add_12_2_synth_1"/>
+		<Parent Id="design_1_and_gate_14_2_synth_1"/>
+		<Parent Id="design_1_and_gate_10_3_synth_1"/>
+		<Parent Id="design_1_full_add_9_2_synth_1"/>
+		<Parent Id="design_1_full_add_9_4_synth_1"/>
+		<Parent Id="design_1_full_add_11_4_synth_1"/>
+		<Parent Id="design_1_and_gate_9_4_synth_1"/>
+		<Parent Id="design_1_and_gate_12_3_synth_1"/>
+		<Parent Id="design_1_and_gate_8_4_synth_1"/>
+		<Parent Id="design_1_and_gate_11_4_synth_1"/>
+		<Parent Id="design_1_and_gate_11_2_synth_1"/>
+		<Parent Id="design_1_and_gate_15_2_synth_1"/>
+		<Parent Id="design_1_and_gate_9_3_synth_1"/>
+		<Parent Id="design_1_and_gate_10_2_synth_1"/>
+		<Parent Id="design_1_full_add_10_2_synth_1"/>
+		<Parent Id="design_1_full_add_8_2_synth_1"/>
+		<Parent Id="design_1_and_gate_14_3_synth_1"/>
+		<Parent Id="design_1_full_add_14_2_synth_1"/>
+		<Parent Id="design_1_full_add_8_3_synth_1"/>
+		<Parent Id="design_1_full_add_14_3_synth_1"/>
+		<Parent Id="design_1_and_gate_10_4_synth_1"/>
+		<Parent Id="design_1_and_gate_11_3_synth_1"/>
+		<Parent Id="design_1_and_gate_14_4_synth_1"/>
+		<Parent Id="design_1_full_add_10_3_synth_1"/>
+		<Parent Id="design_1_full_add_15_3_synth_1"/>
+		<Parent Id="design_1_and_gate_13_4_synth_1"/>
+		<Parent Id="design_1_and_gate_12_2_synth_1"/>
+		<Parent Id="design_1_and_gate_13_2_synth_1"/>
+		<Parent Id="design_1_and_gate_8_3_synth_1"/>
+		<Parent Id="design_1_and_gate_13_3_synth_1"/>
+		<Parent Id="design_1_full_add_13_2_synth_1"/>
+		<Parent Id="design_1_full_add_15_2_synth_1"/>
+		<Parent Id="design_1_full_add_9_3_synth_1"/>
+		<Parent Id="design_1_and_gate_12_4_synth_1"/>
+		<Parent Id="design_1_and_gate_15_4_synth_1"/>
+		<Parent Id="design_1_full_add_12_3_synth_1"/>
+		<Parent Id="design_1_full_add_13_3_synth_1"/>
+		<Parent Id="design_1_full_add_8_4_synth_1"/>
+		<Parent Id="design_1_full_add_10_4_synth_1"/>
+		<Parent Id="design_1_full_add_15_4_synth_1"/>
+		<Parent Id="design_1_full_add_13_4_synth_1"/>
+		<Parent Id="design_1_and_gate_8_5_synth_1"/>
+		<Parent Id="design_1_full_add_12_4_synth_1"/>
+		<Parent Id="design_1_and_gate_10_5_synth_1"/>
+		<Parent Id="design_1_and_gate_12_5_synth_1"/>
+		<Parent Id="design_1_and_gate_11_5_synth_1"/>
+		<Parent Id="design_1_and_gate_13_5_synth_1"/>
+		<Parent Id="design_1_and_gate_14_5_synth_1"/>
+		<Parent Id="design_1_full_add_8_5_synth_1"/>
+		<Parent Id="design_1_full_add_9_5_synth_1"/>
+		<Parent Id="design_1_full_add_10_5_synth_1"/>
+		<Parent Id="design_1_full_add_11_5_synth_1"/>
+		<Parent Id="design_1_full_add_12_5_synth_1"/>
+		<Parent Id="design_1_and_gate_9_5_synth_1"/>
+		<Parent Id="design_1_full_add_13_5_synth_1"/>
+		<Parent Id="design_1_full_add_14_5_synth_1"/>
+		<Parent Id="design_1_full_add_15_5_synth_1"/>
+		<Parent Id="design_1_and_gate_8_6_synth_1"/>
+		<Parent Id="design_1_and_gate_9_6_synth_1"/>
+		<Parent Id="design_1_full_add_14_4_synth_1"/>
+		<Parent Id="design_1_and_gate_15_5_synth_1"/>
+		<Parent Id="design_1_and_gate_10_7_synth_1"/>
+		<Parent Id="design_1_full_add_11_7_synth_1"/>
+		<Parent Id="design_1_and_gate_12_6_synth_1"/>
+		<Parent Id="design_1_and_gate_14_7_synth_1"/>
+		<Parent Id="design_1_or_gate_1_6_synth_1"/>
+		<Parent Id="design_1_or_gate_4_7_synth_1"/>
+		<Parent Id="design_1_and_gate_3_7_synth_1"/>
+		<Parent Id="design_1_and_gate_1_7_synth_1"/>
+		<Parent Id="design_1_or_gate_2_6_synth_1"/>
+		<Parent Id="design_1_and_gate_15_6_synth_1"/>
+		<Parent Id="design_1_xor_gate_2_10_synth_1"/>
+		<Parent Id="design_1_full_add_11_6_synth_1"/>
+		<Parent Id="design_1_full_add_8_7_synth_1"/>
+		<Parent Id="design_1_and_gate_13_6_synth_1"/>
+		<Parent Id="design_1_and_gate_11_6_synth_1"/>
+		<Parent Id="design_1_full_add_14_6_synth_1"/>
+		<Parent Id="design_1_full_add_15_7_synth_1"/>
+		<Parent Id="design_1_and_gate_2_7_synth_1"/>
+		<Parent Id="design_1_and_gate_11_7_synth_1"/>
+		<Parent Id="design_1_full_add_15_6_synth_1"/>
+		<Parent Id="design_1_and_gate_8_7_synth_1"/>
+		<Parent Id="design_1_full_add_9_7_synth_1"/>
+		<Parent Id="design_1_full_add_10_7_synth_1"/>
+		<Parent Id="design_1_full_add_8_6_synth_1"/>
+		<Parent Id="design_1_full_add_13_6_synth_1"/>
+		<Parent Id="design_1_full_add_9_6_synth_1"/>
+		<Parent Id="design_1_full_add_10_6_synth_1"/>
+		<Parent Id="design_1_and_gate_9_7_synth_1"/>
+		<Parent Id="design_1_and_gate_15_7_synth_1"/>
+		<Parent Id="design_1_and_gate_13_7_synth_1"/>
+		<Parent Id="design_1_and_gate_14_6_synth_1"/>
+		<Parent Id="design_1_full_add_12_6_synth_1"/>
+		<Parent Id="design_1_and_gate_10_6_synth_1"/>
+		<Parent Id="design_1_and_gate_12_7_synth_1"/>
+		<Parent Id="design_1_full_add_12_7_synth_1"/>
+		<Parent Id="design_1_full_add_13_7_synth_1"/>
+		<Parent Id="design_1_full_add_14_7_synth_1"/>
+		<Parent Id="design_1_or_gate_0_8_synth_1"/>
+		<Parent Id="design_1_or_gate_3_6_synth_1"/>
+		<Parent Id="design_1_and_gate_4_7_synth_1"/>
+		<Parent Id="design_1_and_gate_5_7_synth_1"/>
+		<Parent Id="design_1_and_gate_6_7_synth_1"/>
+		<Parent Id="design_1_xor_gate_0_6_synth_1"/>
+		<Parent Id="design_1_xor_gate_1_6_synth_1"/>
+		<Parent Id="design_1_xor_gate_3_5_synth_1"/>
+		<Parent Id="design_1_xor_gate_4_5_synth_1"/>
+		<Parent Id="design_1_xor_gate_5_5_synth_1"/>
+		<Parent Id="design_1_xor_gate_7_4_synth_1"/>
+		<Parent Id="design_1_xor_gate_6_5_synth_1"/>
+		<Parent Id="design_1_or_gate_5_4_synth_1"/>
+		<Parent Id="design_1_and_gate_7_6_synth_1"/>
+		<Parent Id="design_1_and_gate_0_13_synth_1"/>
+		<Parent Id="design_1_or_gate_0_9_synth_1"/>
+		<Parent Id="design_1_or_gate_1_7_synth_1"/>
+		<Parent Id="design_1_or_gate_2_7_synth_1"/>
+		<Parent Id="design_1_or_gate_3_7_synth_1"/>
+		<Parent Id="design_1_and_gate_1_8_synth_1"/>
+		<Parent Id="design_1_and_gate_2_8_synth_1"/>
+		<Parent Id="design_1_and_gate_3_8_synth_1"/>
+		<Parent Id="design_1_or_gate_4_8_synth_1"/>
+		<Parent Id="design_1_and_gate_4_8_synth_1"/>
+		<Parent Id="design_1_and_gate_5_8_synth_1"/>
+		<Parent Id="design_1_and_gate_6_8_synth_1"/>
+		<Parent Id="design_1_or_gate_2_1_synth_1"/>
+		<Parent Id="design_1_or_gate_3_1_synth_1"/>
+		<Parent Id="design_1_and_gate_0_1_synth_1"/>
+		<Parent Id="design_1_or_gate_4_2_synth_1"/>
+		<Parent Id="design_1_and_gate_0_2_synth_1"/>
+		<Parent Id="design_1_or_gate_0_2_synth_1"/>
+		<Parent Id="design_1_adpt_in_0_1_synth_1"/>
+		<Parent Id="design_1_xor_gate_2_2_synth_1"/>
+		<Parent Id="design_1_cg_fpga_0_0_synth_1"/>
+		<Parent Id="design_1_and_gate_0_4_synth_1"/>
+		<Parent Id="design_1_and_gate_0_5_synth_1"/>
+		<Parent Id="design_1_and_gate_0_6_synth_1"/>
+		<Parent Id="design_1_xor_gate_0_1_synth_1"/>
+		<Parent Id="design_1_or_gate_1_1_synth_1"/>
+		<Parent Id="design_1_xor_gate_1_1_synth_1"/>
+		<Parent Id="design_1_xor_gate_2_1_synth_1"/>
+		<Parent Id="design_1_and_gate_0_3_synth_1"/>
+		<Parent Id="design_1_xor_gate_2_3_synth_1"/>
+		<Parent Id="design_1_adpt_in_1_1_synth_1"/>
+		<Parent Id="design_1_xor_gate_7_5_synth_1"/>
+		<Parent Id="design_1_and_gate_7_7_synth_1"/>
+		<Parent Id="design_1_xor_gate_0_8_synth_1"/>
+		<Parent Id="design_1_adpt_out_0_1_synth_1"/>
+		<Parent Id="design_1_or_gate_6_0_synth_1"/>
+		<Parent Id="design_1_and_gate_0_14_synth_1"/>
+		<Parent Id="design_1_or_gate_7_0_synth_1"/>
+		<Parent Id="design_1_or_gate_5_5_synth_1"/>
+	</Run>
+	<Run Id="impl_1" LaunchDir="D:/coding/computer_organization/exp2nd/multi/multi/multi.runs/impl_1" FlowId="Vivado_Implementation" FromStepId="init_design" ToStepId="write_bitstream">
+		<Parent Id="synth_1"/>
+		<Parent Id="design_1_xor_gate_0_7_synth_1"/>
+		<Parent Id="design_1_xor_gate_3_6_synth_1"/>
+		<Parent Id="design_1_xor_gate_5_6_synth_1"/>
+		<Parent Id="design_1_xor_gate_2_11_synth_1"/>
+		<Parent Id="design_1_xor_gate_4_6_synth_1"/>
+		<Parent Id="design_1_xor_gate_6_6_synth_1"/>
+		<Parent Id="design_1_xor_gate_1_7_synth_1"/>
+		<Parent Id="design_1_xor_gate_0_5_synth_1"/>
+		<Parent Id="design_1_and_gate_0_11_synth_1"/>
+		<Parent Id="design_1_and_gate_4_5_synth_1"/>
+		<Parent Id="design_1_xor_gate_2_4_synth_1"/>
+		<Parent Id="design_1_or_gate_1_5_synth_1"/>
+		<Parent Id="design_1_or_gate_3_5_synth_1"/>
+		<Parent Id="design_1_xor_gate_6_4_synth_1"/>
+		<Parent Id="design_1_and_gate_3_5_synth_1"/>
+		<Parent Id="design_1_xor_gate_2_5_synth_1"/>
+		<Parent Id="design_1_and_gate_1_5_synth_1"/>
+		<Parent Id="design_1_and_gate_5_5_synth_1"/>
+		<Parent Id="design_1_xor_gate_4_4_synth_1"/>
+		<Parent Id="design_1_xor_gate_5_4_synth_1"/>
+		<Parent Id="design_1_xor_gate_7_3_synth_1"/>
+		<Parent Id="design_1_or_gate_5_3_synth_1"/>
+		<Parent Id="design_1_or_gate_5_0_synth_1"/>
+		<Parent Id="design_1_full_add_12_0_synth_1"/>
+		<Parent Id="design_1_or_gate_2_5_synth_1"/>
+		<Parent Id="design_1_xor_gate_1_5_synth_1"/>
+		<Parent Id="design_1_and_gate_5_4_synth_1"/>
+		<Parent Id="design_1_and_gate_7_3_synth_1"/>
+		<Parent Id="design_1_and_gate_7_4_synth_1"/>
+		<Parent Id="design_1_and_gate_0_0_synth_1"/>
+		<Parent Id="design_1_and_gate_15_0_synth_1"/>
+		<Parent Id="design_1_full_add_9_0_synth_1"/>
+		<Parent Id="design_1_xor_gate_3_4_synth_1"/>
+		<Parent Id="design_1_and_gate_7_0_synth_1"/>
+		<Parent Id="design_1_xor_gate_7_0_synth_1"/>
+		<Parent Id="design_1_or_gate_0_6_synth_1"/>
+		<Parent Id="design_1_and_gate_2_5_synth_1"/>
+		<Parent Id="design_1_or_gate_4_6_synth_1"/>
+		<Parent Id="design_1_and_gate_6_5_synth_1"/>
+		<Parent Id="design_1_xor_gate_2_9_synth_1"/>
+		<Parent Id="design_1_and_gate_8_0_synth_1"/>
+		<Parent Id="design_1_and_gate_11_0_synth_1"/>
+		<Parent Id="design_1_and_gate_12_0_synth_1"/>
+		<Parent Id="design_1_and_gate_13_0_synth_1"/>
+		<Parent Id="design_1_and_gate_14_0_synth_1"/>
+		<Parent Id="design_1_and_gate_9_0_synth_1"/>
+		<Parent Id="design_1_full_add_10_0_synth_1"/>
+		<Parent Id="design_1_full_add_11_0_synth_1"/>
+		<Parent Id="design_1_full_add_13_0_synth_1"/>
+		<Parent Id="design_1_and_gate_10_0_synth_1"/>
+		<Parent Id="design_1_full_add_15_0_synth_1"/>
+		<Parent Id="design_1_full_add_14_0_synth_1"/>
+		<Parent Id="design_1_full_add_8_0_synth_1"/>
+		<Parent Id="design_1_and_gate_0_10_synth_1"/>
+		<Parent Id="design_1_and_gate_1_4_synth_1"/>
+		<Parent Id="design_1_and_gate_2_4_synth_1"/>
+		<Parent Id="design_1_and_gate_3_4_synth_1"/>
+		<Parent Id="design_1_and_gate_4_4_synth_1"/>
+		<Parent Id="design_1_and_gate_6_4_synth_1"/>
+		<Parent Id="design_1_full_add_0_0_synth_1"/>
+		<Parent Id="design_1_full_add_3_0_synth_1"/>
+		<Parent Id="design_1_full_add_4_0_synth_1"/>
+		<Parent Id="design_1_full_add_5_0_synth_1"/>
+		<Parent Id="design_1_full_add_7_0_synth_1"/>
+		<Parent Id="design_1_and_gate_8_2_synth_1"/>
+		<Parent Id="design_1_and_gate_9_2_synth_1"/>
+		<Parent Id="design_1_full_add_1_0_synth_1"/>
+		<Parent Id="design_1_full_add_6_0_synth_1"/>
+		<Parent Id="design_1_full_add_2_0_synth_1"/>
+		<Parent Id="design_1_full_add_11_2_synth_1"/>
+		<Parent Id="design_1_and_gate_15_3_synth_1"/>
+		<Parent Id="design_1_full_add_11_3_synth_1"/>
+		<Parent Id="design_1_full_add_12_2_synth_1"/>
+		<Parent Id="design_1_and_gate_14_2_synth_1"/>
+		<Parent Id="design_1_and_gate_10_3_synth_1"/>
+		<Parent Id="design_1_full_add_9_2_synth_1"/>
+		<Parent Id="design_1_full_add_9_4_synth_1"/>
+		<Parent Id="design_1_full_add_11_4_synth_1"/>
+		<Parent Id="design_1_and_gate_9_4_synth_1"/>
+		<Parent Id="design_1_and_gate_12_3_synth_1"/>
+		<Parent Id="design_1_and_gate_8_4_synth_1"/>
+		<Parent Id="design_1_and_gate_11_4_synth_1"/>
+		<Parent Id="design_1_and_gate_11_2_synth_1"/>
+		<Parent Id="design_1_and_gate_15_2_synth_1"/>
+		<Parent Id="design_1_and_gate_9_3_synth_1"/>
+		<Parent Id="design_1_and_gate_10_2_synth_1"/>
+		<Parent Id="design_1_full_add_10_2_synth_1"/>
+		<Parent Id="design_1_full_add_8_2_synth_1"/>
+		<Parent Id="design_1_and_gate_14_3_synth_1"/>
+		<Parent Id="design_1_full_add_14_2_synth_1"/>
+		<Parent Id="design_1_full_add_8_3_synth_1"/>
+		<Parent Id="design_1_full_add_14_3_synth_1"/>
+		<Parent Id="design_1_and_gate_10_4_synth_1"/>
+		<Parent Id="design_1_and_gate_11_3_synth_1"/>
+		<Parent Id="design_1_and_gate_14_4_synth_1"/>
+		<Parent Id="design_1_full_add_10_3_synth_1"/>
+		<Parent Id="design_1_full_add_15_3_synth_1"/>
+		<Parent Id="design_1_and_gate_13_4_synth_1"/>
+		<Parent Id="design_1_and_gate_12_2_synth_1"/>
+		<Parent Id="design_1_and_gate_13_2_synth_1"/>
+		<Parent Id="design_1_and_gate_8_3_synth_1"/>
+		<Parent Id="design_1_and_gate_13_3_synth_1"/>
+		<Parent Id="design_1_full_add_13_2_synth_1"/>
+		<Parent Id="design_1_full_add_15_2_synth_1"/>
+		<Parent Id="design_1_full_add_9_3_synth_1"/>
+		<Parent Id="design_1_and_gate_12_4_synth_1"/>
+		<Parent Id="design_1_and_gate_15_4_synth_1"/>
+		<Parent Id="design_1_full_add_12_3_synth_1"/>
+		<Parent Id="design_1_full_add_13_3_synth_1"/>
+		<Parent Id="design_1_full_add_8_4_synth_1"/>
+		<Parent Id="design_1_full_add_10_4_synth_1"/>
+		<Parent Id="design_1_full_add_15_4_synth_1"/>
+		<Parent Id="design_1_full_add_13_4_synth_1"/>
+		<Parent Id="design_1_and_gate_8_5_synth_1"/>
+		<Parent Id="design_1_full_add_12_4_synth_1"/>
+		<Parent Id="design_1_and_gate_10_5_synth_1"/>
+		<Parent Id="design_1_and_gate_12_5_synth_1"/>
+		<Parent Id="design_1_and_gate_11_5_synth_1"/>
+		<Parent Id="design_1_and_gate_13_5_synth_1"/>
+		<Parent Id="design_1_and_gate_14_5_synth_1"/>
+		<Parent Id="design_1_full_add_8_5_synth_1"/>
+		<Parent Id="design_1_full_add_9_5_synth_1"/>
+		<Parent Id="design_1_full_add_10_5_synth_1"/>
+		<Parent Id="design_1_full_add_11_5_synth_1"/>
+		<Parent Id="design_1_full_add_12_5_synth_1"/>
+		<Parent Id="design_1_and_gate_9_5_synth_1"/>
+		<Parent Id="design_1_full_add_13_5_synth_1"/>
+		<Parent Id="design_1_full_add_14_5_synth_1"/>
+		<Parent Id="design_1_full_add_15_5_synth_1"/>
+		<Parent Id="design_1_and_gate_8_6_synth_1"/>
+		<Parent Id="design_1_and_gate_9_6_synth_1"/>
+		<Parent Id="design_1_full_add_14_4_synth_1"/>
+		<Parent Id="design_1_and_gate_15_5_synth_1"/>
+		<Parent Id="design_1_and_gate_10_7_synth_1"/>
+		<Parent Id="design_1_full_add_11_7_synth_1"/>
+		<Parent Id="design_1_and_gate_12_6_synth_1"/>
+		<Parent Id="design_1_and_gate_14_7_synth_1"/>
+		<Parent Id="design_1_or_gate_1_6_synth_1"/>
+		<Parent Id="design_1_or_gate_4_7_synth_1"/>
+		<Parent Id="design_1_and_gate_3_7_synth_1"/>
+		<Parent Id="design_1_and_gate_1_7_synth_1"/>
+		<Parent Id="design_1_or_gate_2_6_synth_1"/>
+		<Parent Id="design_1_and_gate_15_6_synth_1"/>
+		<Parent Id="design_1_xor_gate_2_10_synth_1"/>
+		<Parent Id="design_1_full_add_11_6_synth_1"/>
+		<Parent Id="design_1_full_add_8_7_synth_1"/>
+		<Parent Id="design_1_and_gate_13_6_synth_1"/>
+		<Parent Id="design_1_and_gate_11_6_synth_1"/>
+		<Parent Id="design_1_full_add_14_6_synth_1"/>
+		<Parent Id="design_1_full_add_15_7_synth_1"/>
+		<Parent Id="design_1_and_gate_2_7_synth_1"/>
+		<Parent Id="design_1_and_gate_11_7_synth_1"/>
+		<Parent Id="design_1_full_add_15_6_synth_1"/>
+		<Parent Id="design_1_and_gate_8_7_synth_1"/>
+		<Parent Id="design_1_full_add_9_7_synth_1"/>
+		<Parent Id="design_1_full_add_10_7_synth_1"/>
+		<Parent Id="design_1_full_add_8_6_synth_1"/>
+		<Parent Id="design_1_full_add_13_6_synth_1"/>
+		<Parent Id="design_1_full_add_9_6_synth_1"/>
+		<Parent Id="design_1_full_add_10_6_synth_1"/>
+		<Parent Id="design_1_and_gate_9_7_synth_1"/>
+		<Parent Id="design_1_and_gate_15_7_synth_1"/>
+		<Parent Id="design_1_and_gate_13_7_synth_1"/>
+		<Parent Id="design_1_and_gate_14_6_synth_1"/>
+		<Parent Id="design_1_full_add_12_6_synth_1"/>
+		<Parent Id="design_1_and_gate_10_6_synth_1"/>
+		<Parent Id="design_1_and_gate_12_7_synth_1"/>
+		<Parent Id="design_1_full_add_12_7_synth_1"/>
+		<Parent Id="design_1_full_add_13_7_synth_1"/>
+		<Parent Id="design_1_full_add_14_7_synth_1"/>
+		<Parent Id="design_1_or_gate_0_8_synth_1"/>
+		<Parent Id="design_1_or_gate_3_6_synth_1"/>
+		<Parent Id="design_1_and_gate_4_7_synth_1"/>
+		<Parent Id="design_1_and_gate_5_7_synth_1"/>
+		<Parent Id="design_1_and_gate_6_7_synth_1"/>
+		<Parent Id="design_1_xor_gate_0_6_synth_1"/>
+		<Parent Id="design_1_xor_gate_1_6_synth_1"/>
+		<Parent Id="design_1_xor_gate_3_5_synth_1"/>
+		<Parent Id="design_1_xor_gate_4_5_synth_1"/>
+		<Parent Id="design_1_xor_gate_5_5_synth_1"/>
+		<Parent Id="design_1_xor_gate_7_4_synth_1"/>
+		<Parent Id="design_1_xor_gate_6_5_synth_1"/>
+		<Parent Id="design_1_or_gate_5_4_synth_1"/>
+		<Parent Id="design_1_and_gate_7_6_synth_1"/>
+		<Parent Id="design_1_and_gate_0_13_synth_1"/>
+		<Parent Id="design_1_or_gate_0_9_synth_1"/>
+		<Parent Id="design_1_or_gate_1_7_synth_1"/>
+		<Parent Id="design_1_or_gate_2_7_synth_1"/>
+		<Parent Id="design_1_or_gate_3_7_synth_1"/>
+		<Parent Id="design_1_and_gate_1_8_synth_1"/>
+		<Parent Id="design_1_and_gate_2_8_synth_1"/>
+		<Parent Id="design_1_and_gate_3_8_synth_1"/>
+		<Parent Id="design_1_or_gate_4_8_synth_1"/>
+		<Parent Id="design_1_and_gate_4_8_synth_1"/>
+		<Parent Id="design_1_and_gate_5_8_synth_1"/>
+		<Parent Id="design_1_and_gate_6_8_synth_1"/>
+		<Parent Id="design_1_or_gate_2_1_synth_1"/>
+		<Parent Id="design_1_or_gate_3_1_synth_1"/>
+		<Parent Id="design_1_and_gate_0_1_synth_1"/>
+		<Parent Id="design_1_or_gate_4_2_synth_1"/>
+		<Parent Id="design_1_and_gate_0_2_synth_1"/>
+		<Parent Id="design_1_or_gate_0_2_synth_1"/>
+		<Parent Id="design_1_adpt_in_0_1_synth_1"/>
+		<Parent Id="design_1_xor_gate_2_2_synth_1"/>
+		<Parent Id="design_1_cg_fpga_0_0_synth_1"/>
+		<Parent Id="design_1_and_gate_0_4_synth_1"/>
+		<Parent Id="design_1_and_gate_0_5_synth_1"/>
+		<Parent Id="design_1_and_gate_0_6_synth_1"/>
+		<Parent Id="design_1_xor_gate_0_1_synth_1"/>
+		<Parent Id="design_1_or_gate_1_1_synth_1"/>
+		<Parent Id="design_1_xor_gate_1_1_synth_1"/>
+		<Parent Id="design_1_xor_gate_2_1_synth_1"/>
+		<Parent Id="design_1_and_gate_0_3_synth_1"/>
+		<Parent Id="design_1_xor_gate_2_3_synth_1"/>
+		<Parent Id="design_1_adpt_in_1_1_synth_1"/>
+		<Parent Id="design_1_xor_gate_7_5_synth_1"/>
+		<Parent Id="design_1_and_gate_7_7_synth_1"/>
+		<Parent Id="design_1_xor_gate_0_8_synth_1"/>
+		<Parent Id="design_1_adpt_out_0_1_synth_1"/>
+		<Parent Id="design_1_or_gate_6_0_synth_1"/>
+		<Parent Id="design_1_and_gate_0_14_synth_1"/>
+		<Parent Id="design_1_or_gate_7_0_synth_1"/>
+		<Parent Id="design_1_or_gate_5_5_synth_1"/>
+	</Run>
+	<Parameters>
+		<Parameter Name="runs.monitorLSFJobs" Val="true" Type="bool"/>
+		<Parameter Name="runs.enableClusterConf" Val="true" Type="bool"/>
+		<Parameter Name="general.shortenLongPath" Val="true" Type="bool"/>
+	</Parameters>
+	<ProductInfo Name="vivado"/>
+</Runs>
+

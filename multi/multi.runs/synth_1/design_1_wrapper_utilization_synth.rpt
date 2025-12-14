@@ -1,0 +1,393 @@
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved. Copyright 2022-2024 Advanced Micro Devices, Inc. All Rights Reserved.
+---------------------------------------------------------------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2024.2 (win64) Build 5239630 Fri Nov 08 22:35:27 MST 2024
+| Date         : Sat Oct 25 15:36:24 2025
+| Host         : Celore running 64-bit major release  (build 9200)
+| Command      : report_utilization -file design_1_wrapper_utilization_synth.rpt -pb design_1_wrapper_utilization_synth.pb
+| Design       : design_1_wrapper
+| Device       : xc7z020clg400-1
+| Speed File   : -1
+| Design State : Synthesized
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+Utilization Design Information
+
+Table of Contents
+-----------------
+1. Slice Logic
+1.1 Summary of Registers by Type
+2. Memory
+3. DSP
+4. IO and GT Specific
+5. Clocking
+6. Specific Feature
+7. Primitives
+8. Black Boxes
+9. Instantiated Netlists
+
+1. Slice Logic
+--------------
+
++-------------------------+------+-------+------------+-----------+-------+
+|        Site Type        | Used | Fixed | Prohibited | Available | Util% |
++-------------------------+------+-------+------------+-----------+-------+
+| Slice LUTs*             |    0 |     0 |          0 |     53200 |  0.00 |
+|   LUT as Logic          |    0 |     0 |          0 |     53200 |  0.00 |
+|   LUT as Memory         |    0 |     0 |          0 |     17400 |  0.00 |
+| Slice Registers         |    0 |     0 |          0 |    106400 |  0.00 |
+|   Register as Flip Flop |    0 |     0 |          0 |    106400 |  0.00 |
+|   Register as Latch     |    0 |     0 |          0 |    106400 |  0.00 |
+| F7 Muxes                |    0 |     0 |          0 |     26600 |  0.00 |
+| F8 Muxes                |    0 |     0 |          0 |     13300 |  0.00 |
++-------------------------+------+-------+------------+-----------+-------+
+* Warning! The Final LUT count, after physical optimizations and full implementation, is typically lower. Run opt_design after synthesis, if not already completed, for a more realistic count.
+Warning! LUT value is adjusted to account for LUT combining.
+Warning! For any ECO changes, please run place_design if there are unplaced instances
+
+
+1.1 Summary of Registers by Type
+--------------------------------
+
++-------+--------------+-------------+--------------+
+| Total | Clock Enable | Synchronous | Asynchronous |
++-------+--------------+-------------+--------------+
+| 0     |            _ |           - |            - |
+| 0     |            _ |           - |          Set |
+| 0     |            _ |           - |        Reset |
+| 0     |            _ |         Set |            - |
+| 0     |            _ |       Reset |            - |
+| 0     |          Yes |           - |            - |
+| 0     |          Yes |           - |          Set |
+| 0     |          Yes |           - |        Reset |
+| 0     |          Yes |         Set |            - |
+| 0     |          Yes |       Reset |            - |
++-------+--------------+-------------+--------------+
+
+
+2. Memory
+---------
+
++----------------+------+-------+------------+-----------+-------+
+|    Site Type   | Used | Fixed | Prohibited | Available | Util% |
++----------------+------+-------+------------+-----------+-------+
+| Block RAM Tile |    0 |     0 |          0 |       140 |  0.00 |
+|   RAMB36/FIFO* |    0 |     0 |          0 |       140 |  0.00 |
+|   RAMB18       |    0 |     0 |          0 |       280 |  0.00 |
++----------------+------+-------+------------+-----------+-------+
+* Note: Each Block RAM Tile only has one FIFO logic available and therefore can accommodate only one FIFO36E1 or one FIFO18E1. However, if a FIFO18E1 occupies a Block RAM Tile, that tile can still accommodate a RAMB18E1
+
+
+3. DSP
+------
+
++-----------+------+-------+------------+-----------+-------+
+| Site Type | Used | Fixed | Prohibited | Available | Util% |
++-----------+------+-------+------------+-----------+-------+
+| DSPs      |    0 |     0 |          0 |       220 |  0.00 |
++-----------+------+-------+------------+-----------+-------+
+
+
+4. IO and GT Specific
+---------------------
+
++-----------------------------+------+-------+------------+-----------+-------+
+|          Site Type          | Used | Fixed | Prohibited | Available | Util% |
++-----------------------------+------+-------+------------+-----------+-------+
+| Bonded IOB                  |    0 |     0 |          0 |       125 |  0.00 |
+| Bonded IPADs                |    0 |     0 |          0 |         2 |  0.00 |
+| Bonded IOPADs               |    0 |     0 |          0 |       130 |  0.00 |
+| PHY_CONTROL                 |    0 |     0 |          0 |         4 |  0.00 |
+| PHASER_REF                  |    0 |     0 |          0 |         4 |  0.00 |
+| OUT_FIFO                    |    0 |     0 |          0 |        16 |  0.00 |
+| IN_FIFO                     |    0 |     0 |          0 |        16 |  0.00 |
+| IDELAYCTRL                  |    0 |     0 |          0 |         4 |  0.00 |
+| IBUFDS                      |    0 |     0 |          0 |       121 |  0.00 |
+| PHASER_OUT/PHASER_OUT_PHY   |    0 |     0 |          0 |        16 |  0.00 |
+| PHASER_IN/PHASER_IN_PHY     |    0 |     0 |          0 |        16 |  0.00 |
+| IDELAYE2/IDELAYE2_FINEDELAY |    0 |     0 |          0 |       200 |  0.00 |
+| ILOGIC                      |    0 |     0 |          0 |       125 |  0.00 |
+| OLOGIC                      |    0 |     0 |          0 |       125 |  0.00 |
++-----------------------------+------+-------+------------+-----------+-------+
+
+
+5. Clocking
+-----------
+
++------------+------+-------+------------+-----------+-------+
+|  Site Type | Used | Fixed | Prohibited | Available | Util% |
++------------+------+-------+------------+-----------+-------+
+| BUFGCTRL   |    0 |     0 |          0 |        32 |  0.00 |
+| BUFIO      |    0 |     0 |          0 |        16 |  0.00 |
+| MMCME2_ADV |    0 |     0 |          0 |         4 |  0.00 |
+| PLLE2_ADV  |    0 |     0 |          0 |         4 |  0.00 |
+| BUFMRCE    |    0 |     0 |          0 |         8 |  0.00 |
+| BUFHCE     |    0 |     0 |          0 |        72 |  0.00 |
+| BUFR       |    0 |     0 |          0 |        16 |  0.00 |
++------------+------+-------+------------+-----------+-------+
+
+
+6. Specific Feature
+-------------------
+
++-------------+------+-------+------------+-----------+-------+
+|  Site Type  | Used | Fixed | Prohibited | Available | Util% |
++-------------+------+-------+------------+-----------+-------+
+| BSCANE2     |    0 |     0 |          0 |         4 |  0.00 |
+| CAPTUREE2   |    0 |     0 |          0 |         1 |  0.00 |
+| DNA_PORT    |    0 |     0 |          0 |         1 |  0.00 |
+| EFUSE_USR   |    0 |     0 |          0 |         1 |  0.00 |
+| FRAME_ECCE2 |    0 |     0 |          0 |         1 |  0.00 |
+| ICAPE2      |    0 |     0 |          0 |         2 |  0.00 |
+| STARTUPE2   |    0 |     0 |          0 |         1 |  0.00 |
+| XADC        |    0 |     0 |          0 |         1 |  0.00 |
++-------------+------+-------+------------+-----------+-------+
+
+
+7. Primitives
+-------------
+
++----------+------+---------------------+
+| Ref Name | Used | Functional Category |
++----------+------+---------------------+
+
+
+8. Black Boxes
+--------------
+
++------------------------+------+
+|        Ref Name        | Used |
++------------------------+------+
+| design_1_xor_gate_7_5  |    1 |
+| design_1_xor_gate_7_4  |    1 |
+| design_1_xor_gate_7_3  |    1 |
+| design_1_xor_gate_7_0  |    1 |
+| design_1_xor_gate_6_6  |    1 |
+| design_1_xor_gate_6_5  |    1 |
+| design_1_xor_gate_6_4  |    1 |
+| design_1_xor_gate_5_6  |    1 |
+| design_1_xor_gate_5_5  |    1 |
+| design_1_xor_gate_5_4  |    1 |
+| design_1_xor_gate_4_6  |    1 |
+| design_1_xor_gate_4_5  |    1 |
+| design_1_xor_gate_4_4  |    1 |
+| design_1_xor_gate_3_6  |    1 |
+| design_1_xor_gate_3_5  |    1 |
+| design_1_xor_gate_3_4  |    1 |
+| design_1_xor_gate_2_9  |    1 |
+| design_1_xor_gate_2_5  |    1 |
+| design_1_xor_gate_2_4  |    1 |
+| design_1_xor_gate_2_3  |    1 |
+| design_1_xor_gate_2_2  |    1 |
+| design_1_xor_gate_2_11 |    1 |
+| design_1_xor_gate_2_10 |    1 |
+| design_1_xor_gate_2_1  |    1 |
+| design_1_xor_gate_1_7  |    1 |
+| design_1_xor_gate_1_6  |    1 |
+| design_1_xor_gate_1_5  |    1 |
+| design_1_xor_gate_1_1  |    1 |
+| design_1_xor_gate_0_9  |    1 |
+| design_1_xor_gate_0_8  |    1 |
+| design_1_xor_gate_0_5  |    1 |
+| design_1_xor_gate_0_10 |    1 |
+| design_1_xor_gate_0_1  |    1 |
+| design_1_or_gate_7_0   |    1 |
+| design_1_or_gate_6_0   |    1 |
+| design_1_or_gate_5_5   |    1 |
+| design_1_or_gate_5_4   |    1 |
+| design_1_or_gate_5_3   |    1 |
+| design_1_or_gate_5_0   |    1 |
+| design_1_or_gate_4_8   |    1 |
+| design_1_or_gate_4_7   |    1 |
+| design_1_or_gate_4_6   |    1 |
+| design_1_or_gate_4_2   |    1 |
+| design_1_or_gate_3_7   |    1 |
+| design_1_or_gate_3_6   |    1 |
+| design_1_or_gate_3_5   |    1 |
+| design_1_or_gate_3_1   |    1 |
+| design_1_or_gate_2_7   |    1 |
+| design_1_or_gate_2_6   |    1 |
+| design_1_or_gate_2_5   |    1 |
+| design_1_or_gate_2_1   |    1 |
+| design_1_or_gate_1_7   |    1 |
+| design_1_or_gate_1_6   |    1 |
+| design_1_or_gate_1_5   |    1 |
+| design_1_or_gate_1_1   |    1 |
+| design_1_or_gate_0_8   |    1 |
+| design_1_or_gate_0_7   |    1 |
+| design_1_or_gate_0_6   |    1 |
+| design_1_or_gate_0_2   |    1 |
+| design_1_full_add_9_7  |    1 |
+| design_1_full_add_9_6  |    1 |
+| design_1_full_add_9_5  |    1 |
+| design_1_full_add_9_4  |    1 |
+| design_1_full_add_9_3  |    1 |
+| design_1_full_add_9_2  |    1 |
+| design_1_full_add_9_0  |    1 |
+| design_1_full_add_8_7  |    1 |
+| design_1_full_add_8_6  |    1 |
+| design_1_full_add_8_5  |    1 |
+| design_1_full_add_8_4  |    1 |
+| design_1_full_add_8_3  |    1 |
+| design_1_full_add_8_2  |    1 |
+| design_1_full_add_8_0  |    1 |
+| design_1_full_add_7_0  |    1 |
+| design_1_full_add_6_0  |    1 |
+| design_1_full_add_5_0  |    1 |
+| design_1_full_add_4_0  |    1 |
+| design_1_full_add_3_0  |    1 |
+| design_1_full_add_2_0  |    1 |
+| design_1_full_add_1_0  |    1 |
+| design_1_full_add_15_7 |    1 |
+| design_1_full_add_15_6 |    1 |
+| design_1_full_add_15_5 |    1 |
+| design_1_full_add_15_4 |    1 |
+| design_1_full_add_15_3 |    1 |
+| design_1_full_add_15_2 |    1 |
+| design_1_full_add_15_0 |    1 |
+| design_1_full_add_14_7 |    1 |
+| design_1_full_add_14_6 |    1 |
+| design_1_full_add_14_5 |    1 |
+| design_1_full_add_14_4 |    1 |
+| design_1_full_add_14_3 |    1 |
+| design_1_full_add_14_2 |    1 |
+| design_1_full_add_14_0 |    1 |
+| design_1_full_add_13_7 |    1 |
+| design_1_full_add_13_6 |    1 |
+| design_1_full_add_13_5 |    1 |
+| design_1_full_add_13_4 |    1 |
+| design_1_full_add_13_3 |    1 |
+| design_1_full_add_13_2 |    1 |
+| design_1_full_add_13_0 |    1 |
+| design_1_full_add_12_7 |    1 |
+| design_1_full_add_12_6 |    1 |
+| design_1_full_add_12_5 |    1 |
+| design_1_full_add_12_4 |    1 |
+| design_1_full_add_12_3 |    1 |
+| design_1_full_add_12_2 |    1 |
+| design_1_full_add_12_0 |    1 |
+| design_1_full_add_11_7 |    1 |
+| design_1_full_add_11_6 |    1 |
+| design_1_full_add_11_5 |    1 |
+| design_1_full_add_11_4 |    1 |
+| design_1_full_add_11_3 |    1 |
+| design_1_full_add_11_2 |    1 |
+| design_1_full_add_11_0 |    1 |
+| design_1_full_add_10_7 |    1 |
+| design_1_full_add_10_6 |    1 |
+| design_1_full_add_10_5 |    1 |
+| design_1_full_add_10_4 |    1 |
+| design_1_full_add_10_3 |    1 |
+| design_1_full_add_10_2 |    1 |
+| design_1_full_add_10_0 |    1 |
+| design_1_full_add_0_0  |    1 |
+| design_1_cg_fpga_0_0   |    1 |
+| design_1_and_gate_9_7  |    1 |
+| design_1_and_gate_9_6  |    1 |
+| design_1_and_gate_9_5  |    1 |
+| design_1_and_gate_9_4  |    1 |
+| design_1_and_gate_9_3  |    1 |
+| design_1_and_gate_9_2  |    1 |
+| design_1_and_gate_9_0  |    1 |
+| design_1_and_gate_8_7  |    1 |
+| design_1_and_gate_8_6  |    1 |
+| design_1_and_gate_8_5  |    1 |
+| design_1_and_gate_8_4  |    1 |
+| design_1_and_gate_8_3  |    1 |
+| design_1_and_gate_8_2  |    1 |
+| design_1_and_gate_8_0  |    1 |
+| design_1_and_gate_7_6  |    1 |
+| design_1_and_gate_7_5  |    1 |
+| design_1_and_gate_7_4  |    1 |
+| design_1_and_gate_7_3  |    1 |
+| design_1_and_gate_7_0  |    1 |
+| design_1_and_gate_6_7  |    1 |
+| design_1_and_gate_6_6  |    1 |
+| design_1_and_gate_6_5  |    1 |
+| design_1_and_gate_6_4  |    1 |
+| design_1_and_gate_5_7  |    1 |
+| design_1_and_gate_5_6  |    1 |
+| design_1_and_gate_5_5  |    1 |
+| design_1_and_gate_5_4  |    1 |
+| design_1_and_gate_4_7  |    1 |
+| design_1_and_gate_4_6  |    1 |
+| design_1_and_gate_4_5  |    1 |
+| design_1_and_gate_4_4  |    1 |
+| design_1_and_gate_3_7  |    1 |
+| design_1_and_gate_3_6  |    1 |
+| design_1_and_gate_3_5  |    1 |
+| design_1_and_gate_3_4  |    1 |
+| design_1_and_gate_2_7  |    1 |
+| design_1_and_gate_2_6  |    1 |
+| design_1_and_gate_2_5  |    1 |
+| design_1_and_gate_2_4  |    1 |
+| design_1_and_gate_1_7  |    1 |
+| design_1_and_gate_1_6  |    1 |
+| design_1_and_gate_1_5  |    1 |
+| design_1_and_gate_1_4  |    1 |
+| design_1_and_gate_15_7 |    1 |
+| design_1_and_gate_15_6 |    1 |
+| design_1_and_gate_15_5 |    1 |
+| design_1_and_gate_15_4 |    1 |
+| design_1_and_gate_15_3 |    1 |
+| design_1_and_gate_15_2 |    1 |
+| design_1_and_gate_15_0 |    1 |
+| design_1_and_gate_14_7 |    1 |
+| design_1_and_gate_14_6 |    1 |
+| design_1_and_gate_14_5 |    1 |
+| design_1_and_gate_14_4 |    1 |
+| design_1_and_gate_14_3 |    1 |
+| design_1_and_gate_14_2 |    1 |
+| design_1_and_gate_14_0 |    1 |
+| design_1_and_gate_13_7 |    1 |
+| design_1_and_gate_13_6 |    1 |
+| design_1_and_gate_13_5 |    1 |
+| design_1_and_gate_13_4 |    1 |
+| design_1_and_gate_13_3 |    1 |
+| design_1_and_gate_13_2 |    1 |
+| design_1_and_gate_13_0 |    1 |
+| design_1_and_gate_12_7 |    1 |
+| design_1_and_gate_12_6 |    1 |
+| design_1_and_gate_12_5 |    1 |
+| design_1_and_gate_12_4 |    1 |
+| design_1_and_gate_12_3 |    1 |
+| design_1_and_gate_12_2 |    1 |
+| design_1_and_gate_12_0 |    1 |
+| design_1_and_gate_11_7 |    1 |
+| design_1_and_gate_11_6 |    1 |
+| design_1_and_gate_11_5 |    1 |
+| design_1_and_gate_11_4 |    1 |
+| design_1_and_gate_11_3 |    1 |
+| design_1_and_gate_11_2 |    1 |
+| design_1_and_gate_11_0 |    1 |
+| design_1_and_gate_10_7 |    1 |
+| design_1_and_gate_10_6 |    1 |
+| design_1_and_gate_10_5 |    1 |
+| design_1_and_gate_10_4 |    1 |
+| design_1_and_gate_10_3 |    1 |
+| design_1_and_gate_10_2 |    1 |
+| design_1_and_gate_10_0 |    1 |
+| design_1_and_gate_0_6  |    1 |
+| design_1_and_gate_0_5  |    1 |
+| design_1_and_gate_0_4  |    1 |
+| design_1_and_gate_0_3  |    1 |
+| design_1_and_gate_0_2  |    1 |
+| design_1_and_gate_0_13 |    1 |
+| design_1_and_gate_0_12 |    1 |
+| design_1_and_gate_0_11 |    1 |
+| design_1_and_gate_0_10 |    1 |
+| design_1_and_gate_0_1  |    1 |
+| design_1_and_gate_0_0  |    1 |
+| design_1_adpt_out_0_1  |    1 |
+| design_1_adpt_in_1_1   |    1 |
+| design_1_adpt_in_0_1   |    1 |
++------------------------+------+
+
+
+9. Instantiated Netlists
+------------------------
+
++----------+------+
+| Ref Name | Used |
++----------+------+
+
+

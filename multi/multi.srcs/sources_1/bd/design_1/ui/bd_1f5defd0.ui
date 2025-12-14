@@ -1,0 +1,158 @@
+{
+   "ActiveEmotionalView":"Default View",
+   "Default View_ScaleFactor":"0.761666",
+   "Default View_TopLeft":"2119,-446",
+   "ExpandedHierarchyInLayout":"",
+   "guistr":"# # String gsaved with Nlview 7.8.0 2024-04-26 e1825d835c VDI=44 GEI=38 GUI=JA:21.0
+#  -string -flagsOSRD
+preplace inst cg_fpga_0 -pg 1 -lvl 1 -x 140 -y 1130 -defaultsOSRD
+preplace inst adpt_in_0 -pg 1 -lvl 2 -x 380 -y 1020 -defaultsOSRD
+preplace inst adpt_in_1 -pg 1 -lvl 2 -x 380 -y 1350 -defaultsOSRD
+preplace inst cmplmt -pg 1 -lvl 3 -x 640 -y 1020 -defaultsOSRD
+preplace inst cmplmt1 -pg 1 -lvl 3 -x 640 -y 1350 -defaultsOSRD
+preplace inst xlconstant_0 -pg 1 -lvl 3 -x 640 -y 660 -defaultsOSRD
+preplace inst multi_part -pg 1 -lvl 5 -x 1346 -y 920 -defaultsOSRD
+preplace inst multi_head -pg 1 -lvl 4 -x 970 -y 1020 -defaultsOSRD
+preplace inst multi_part2 -pg 1 -lvl 6 -x 1670 -y 820 -defaultsOSRD
+preplace inst multi_part3 -pg 1 -lvl 7 -x 1970 -y 720 -defaultsOSRD
+preplace inst multi_part4 -pg 1 -lvl 8 -x 2290 -y 630 -defaultsOSRD
+preplace inst multi_part5 -pg 1 -lvl 9 -x 2550 -y 520 -defaultsOSRD
+preplace inst multi_part6 -pg 1 -lvl 10 -x 2810 -y 410 -defaultsOSRD
+preplace inst multi_part7 -pg 1 -lvl 11 -x 3210 -y 80 -defaultsOSRD
+preplace inst xor_gate_0 -pg 1 -lvl 5 -x 1346 -y 1420 -defaultsOSRD
+preplace inst adpt_out_0 -pg 1 -lvl 13 -x 3990 -y 90 -defaultsOSRD
+preplace inst cmplmt2 -pg 1 -lvl 12 -x 3580 -y -310 -defaultsOSRD
+preplace inst cmplmt3 -pg 1 -lvl 12 -x 3580 -y 90 -defaultsOSRD
+preplace netloc Net 1 3 1 830 950n
+preplace netloc Net1 1 3 2 810 790 1206
+preplace netloc adpt_in_0_O 1 2 1 N 940
+preplace netloc adpt_in_0_O1 1 2 1 N 960
+preplace netloc adpt_in_0_O2 1 2 1 N 980
+preplace netloc adpt_in_0_O3 1 2 1 N 1000
+preplace netloc adpt_in_0_O4 1 2 1 N 1020
+preplace netloc adpt_in_0_O5 1 2 1 N 1040
+preplace netloc adpt_in_0_O6 1 2 1 490 1060n
+preplace netloc adpt_in_0_O7 1 2 1 480 1080n
+preplace netloc adpt_in_0_O8 1 2 3 560 860 N 860 1166
+preplace netloc adpt_in_1_O 1 2 1 N 1270
+preplace netloc adpt_in_1_O1 1 2 1 N 1290
+preplace netloc adpt_in_1_O2 1 2 1 N 1310
+preplace netloc adpt_in_1_O3 1 2 1 N 1330
+preplace netloc adpt_in_1_O4 1 2 1 N 1350
+preplace netloc adpt_in_1_O5 1 2 1 N 1370
+preplace netloc adpt_in_1_O6 1 2 1 490 1390n
+preplace netloc adpt_in_1_O7 1 2 1 480 1410n
+preplace netloc adpt_in_1_O8 1 2 3 560 1480 720 1430 N
+preplace netloc adpt_out_0_led 1 0 14 0 -150 NJ -150 NJ -150 NJ -150 NJ -150 NJ -150 NJ -150 NJ -150 NJ -150 NJ -150 NJ -150 NJ -150 N -150 4090
+preplace netloc b_1 1 3 3 800J 760 1040 600 1570
+preplace netloc cg_fpga_0_gpio_sw_1 1 1 1 280 1020n
+preplace netloc cg_fpga_0_gpio_sw_2 1 1 1 280 1190n
+preplace netloc cmplmt1_y3 1 3 4 790 570 NJ 570 NJ 570 NJ
+preplace netloc cmplmt1_y4 1 3 5 780 480 NJ 480 NJ 480 NJ 480 NJ
+preplace netloc cmplmt1_y5 1 3 6 770 360 NJ 360 NJ 360 NJ 360 NJ 360 2420J
+preplace netloc cmplmt1_y6 1 3 7 760 210 NJ 210 NJ 210 NJ 210 NJ 210 NJ 210 2660J
+preplace netloc cmplmt1_y7 1 3 8 750J 90 NJ 90 NJ 90 NJ 90 NJ 90 NJ 90 NJ 90 2890
+preplace netloc cmplmt_y 1 3 8 740 780 1136 610 1590 550 1820 430 2170 330 2440 230 2730 -90 N
+preplace netloc cmplmt_y1 1 3 8 840 800 1226 620 1580 590 1870 440 2210 390 2410 240 2670 100 2900
+preplace netloc cmplmt_y2 1 3 8 850 810 1236 630 1560 1040 1790 450 2180 370 2400 250 2680 110 2910
+preplace netloc cmplmt_y3 1 3 8 860 820 1266 670 1500 1050 1770 420 2190 380 2450 260 2650 120 2920
+preplace netloc cmplmt_y4 1 3 8 870 830 1246 640 1540 1060 1830 490 2200 400 2460 270 2690 130 2930
+preplace netloc cmplmt_y5 1 3 8 880 840 1256 650 1510 1070 1810 460 2150 310 2470 290 2700 140 2940
+preplace netloc cmplmt_y6 1 3 8 890 850 1196 680 1460 1080 1850 470 2160 320 2430 280 2640 150 2950
+preplace netloc cmplmt_y7 1 3 8 900 870 1216 690 1440 1090 1870 940 2110 340 2380 200 2710 160 2960
+preplace netloc full_add_1_sum 1 4 1 1176 930n
+preplace netloc full_add_2_sum 1 4 1 1266 960n
+preplace netloc full_add_3_sum 1 4 1 1266 980n
+preplace netloc full_add_4_sum 1 4 1 1266 1000n
+preplace netloc full_add_5_sum 1 4 1 1156 1020n
+preplace netloc full_add_6_sum 1 4 1 1040 1040n
+preplace netloc full_add_7_sum 1 4 1 1040 1060n
+preplace netloc multi_head_cout 1 4 1 1040 1080n
+preplace netloc multi_part2_cout 1 6 1 1760 880n
+preplace netloc multi_part2_sum 1 6 1 1800 730n
+preplace netloc multi_part2_sum1 1 6 1 1880 760n
+preplace netloc multi_part2_sum2 1 6 1 1860 780n
+preplace netloc multi_part2_sum3 1 6 1 1840 800n
+preplace netloc multi_part2_sum4 1 6 1 1800 820n
+preplace netloc multi_part2_sum5 1 6 1 1800 840n
+preplace netloc multi_part2_sum6 1 6 1 1780 860n
+preplace netloc multi_part3_cout 1 7 1 2060 780n
+preplace netloc multi_part3_sum 1 7 1 N 640
+preplace netloc multi_part3_sum1 1 7 1 2130 660n
+preplace netloc multi_part3_sum2 1 7 1 2120 680n
+preplace netloc multi_part3_sum3 1 7 1 2100 700n
+preplace netloc multi_part3_sum4 1 7 1 2090 720n
+preplace netloc multi_part3_sum5 1 7 1 2080 740n
+preplace netloc multi_part3_sum6 1 7 1 2070 760n
+preplace netloc multi_part4_cout 1 8 1 N 690
+preplace netloc multi_part4_sum 1 8 1 2380 530n
+preplace netloc multi_part4_sum1 1 8 1 N 570
+preplace netloc multi_part4_sum2 1 8 1 N 590
+preplace netloc multi_part4_sum3 1 8 1 N 610
+preplace netloc multi_part4_sum4 1 8 1 N 630
+preplace netloc multi_part4_sum5 1 8 1 N 650
+preplace netloc multi_part4_sum6 1 8 1 N 670
+preplace netloc multi_part5_cout 1 9 1 N 580
+preplace netloc multi_part5_sum 1 9 1 2670 420n
+preplace netloc multi_part5_sum1 1 9 1 N 460
+preplace netloc multi_part5_sum2 1 9 1 N 480
+preplace netloc multi_part5_sum3 1 9 1 N 500
+preplace netloc multi_part5_sum4 1 9 1 N 520
+preplace netloc multi_part5_sum5 1 9 1 N 540
+preplace netloc multi_part5_sum6 1 9 1 N 560
+preplace netloc multi_part6_cout 1 10 1 3060 250n
+preplace netloc multi_part6_sum 1 10 1 2980 90n
+preplace netloc multi_part6_sum1 1 10 1 3000 130n
+preplace netloc multi_part6_sum2 1 10 1 3010 150n
+preplace netloc multi_part6_sum3 1 10 1 3020 170n
+preplace netloc multi_part6_sum4 1 10 1 3030 190n
+preplace netloc multi_part6_sum5 1 10 1 3040 210n
+preplace netloc multi_part6_sum6 1 10 1 3050 230n
+preplace netloc multi_part_cout 1 5 1 1430 980n
+preplace netloc multi_part_sum 1 5 1 1550 830n
+preplace netloc multi_part_sum1 1 5 1 1550 860n
+preplace netloc multi_part_sum2 1 5 1 1550 880n
+preplace netloc multi_part_sum3 1 5 1 1520 900n
+preplace netloc multi_part_sum4 1 5 1 1480 920n
+preplace netloc multi_part_sum5 1 5 1 1480 940n
+preplace netloc multi_part_sum6 1 5 1 1450 960n
+preplace netloc xlconstant_0_dout 1 3 8 820 770 1186 660 1470 1100 1890 950 2140 350 2390 220 2720 170 2990
+preplace netloc xor_gate_0_y 1 5 8 1530 180 NJ 180 NJ 180 NJ 180 NJ 180 2890J 300 3480J -70 N
+preplace netloc a8_1 1 11 2 3520 -180 3640
+preplace netloc a7_1 1 11 1 3500 -230n
+preplace netloc multi_part7_cout 1 11 1 3290 140n
+preplace netloc multi_part7_sum6 1 11 1 3490 120n
+preplace netloc multi_part7_sum5 1 11 1 3510 90n
+preplace netloc multi_part7_sum4 1 11 1 3510 70n
+preplace netloc multi_part7_sum3 1 11 1 3510 50n
+preplace netloc multi_part7_sum2 1 11 1 3490 30n
+preplace netloc multi_part7_sum1 1 11 1 3290 10n
+preplace netloc multi_part7_sum 1 11 1 3290 -10n
+preplace netloc multi_part6_sum7 1 10 2 2970 -250 NJ
+preplace netloc a5_1 1 9 3 2630 -290 NJ -290 NJ
+preplace netloc a4_1 1 8 4 2370 -310 NJ -310 NJ -310 NJ
+preplace netloc a3_1 1 7 5 2050 -330 NJ -330 NJ -330 NJ -330 NJ
+preplace netloc a2_1 1 6 6 1750 -350 NJ -350 NJ -350 NJ -350 NJ -350 NJ
+preplace netloc a1_1 1 5 7 1490 -370 NJ -370 NJ -370 NJ -370 NJ -370 NJ -370 NJ
+preplace netloc multi_head_sum7 1 4 8 1146 -390 NJ -390 NJ -390 NJ -390 NJ -390 NJ -390 NJ -390 NJ
+preplace netloc cmplmt3_y7 1 12 1 3740 -50n
+preplace netloc cmplmt3_y6 1 12 1 3750 -30n
+preplace netloc cmplmt3_y5 1 12 1 3760 -10n
+preplace netloc cmplmt3_y4 1 12 1 3770 10n
+preplace netloc cmplmt3_y3 1 12 1 3780 30n
+preplace netloc cmplmt3_y2 1 12 1 3790 50n
+preplace netloc cmplmt3_y1 1 12 1 3640 40n
+preplace netloc cmplmt3_y 1 12 1 3650 20n
+preplace netloc cmplmt2_y6 1 12 1 3670 -270n
+preplace netloc cmplmt2_y7 1 12 1 3660 -250n
+preplace netloc cmplmt2_y5 1 12 1 3680 -290n
+preplace netloc cmplmt2_y3 1 12 1 3700 -330n
+preplace netloc cmplmt2_y4 1 12 1 3690 -310n
+preplace netloc cmplmt2_y2 1 12 1 3710 -350n
+preplace netloc cmplmt2_y1 1 12 1 3720 -370n
+preplace netloc cmplmt2_y 1 12 1 3730 -390n
+levelinfo -pg 1 -20 140 380 640 970 1346 1670 1970 2290 2550 2810 3210 3580 3990 4110
+pagesize -pg 1 -db -bbox -sgen -750 -3890 6450 4110
+"
+}
+0
